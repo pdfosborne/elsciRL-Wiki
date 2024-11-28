@@ -1,3 +1,5 @@
+<a href="url"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+
 # elsciRL (pronounced L-SEE)
 
 *Every problem can be automated with Language and Self-Completing Instructions.*
@@ -7,7 +9,6 @@
 **Quicklinks:** [New Developers](<./New Developers.md>) | [elsciRL in Detail](<./Detailed Introduction to elsciRL.md>) | [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>) | [Introduction to Language RL](<./elsciRL Core/III - Language RL/1 - Introduction to Language RL.md>)
 
 
-![elsciRL_logo|150x150](<./Resources/images/elsciRL_logo.png>)
 
 ## What is elsciRL?
 

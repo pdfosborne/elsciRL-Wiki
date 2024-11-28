@@ -1,4 +1,5 @@
-![elsciRL_logo|150x150](<./Resources/images/elsciRL_logo.png>)
+<a href="url"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+
 # elsciRL (pronounced L-SEE)
 
 *Every problem can be automated with Language and Self-Completing Instructions.*
