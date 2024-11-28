@@ -1,0 +1,13 @@
+{
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showRibbon": false,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./"
+}

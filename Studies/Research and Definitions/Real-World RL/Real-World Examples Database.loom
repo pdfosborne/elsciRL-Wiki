@@ -1,0 +1,139 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "7527606e-d534-4f2b-a6a8-904e223f1ea9",
+        "sortDir": "default",
+        "isVisible": false,
+        "width": "140px",
+        "type": "source",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "fb28594f-5893-406b-93f1-5e4d7386b06c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source-file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "4f1137b8-12f7-444b-abfd-06f4766e3417",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tags",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "80cc46c4-64f0-459e-9c15-2972a2366494",
+            "content": "real-world",
+            "color": "gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "tags"
+      }
+    ],
+    "rows": [
+      {
+        "id": "aa8e5719-2baf-4156-8a02-ad3340d28336",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-04-23T18:46:53.281Z",
+        "lastEditedDateTime": "2024-04-23T18:46:53.281Z",
+        "cells": [
+          {
+            "id": "c63f310e-ff2e-46a1-abb7-05d8a79c1c32",
+            "columnId": "7527606e-d534-4f2b-a6a8-904e223f1ea9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "49d82b52-04b6-4706-af31-e8e018955360",
+            "columnId": "fb28594f-5893-406b-93f1-5e4d7386b06c",
+            "path": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0d10d99a-fc83-4115-aea5-b0f26727e255",
+            "columnId": "4f1137b8-12f7-444b-abfd-06f4766e3417",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "1a6459f4-4074-4a42-9e73-633ac66a0162",
+        "columnId": "4f1137b8-12f7-444b-abfd-06f4766e3417",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "multi-tag",
+        "condition": "contains",
+        "tagIds": [
+          "80cc46c4-64f0-459e-9c15-2972a2366494"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "304be6ce-52d9-4922-b38d-c16373db9a9a",
+        "type": "folder",
+        "path": "HELIOS-Vault/References/Online Articles",
+        "includeSubfolders": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
