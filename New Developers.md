@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
 
 # elsciRL (pronounced L-SEE)
 

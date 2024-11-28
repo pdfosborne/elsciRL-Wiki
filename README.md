@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
 
 # elsciRL (pronounced L-SEE)
 
@@ -30,7 +30,7 @@ To achieve this, we provide:
 6. A public Discord server for the community to connect and collaborate
 
 
-![elsciRL_overview|960x590](<./Resources/images/elscirl_overview.png>)
+![elsciRL_overview|480x295](<./Resources/images/elscirl_overview.png>)
 
 
 
