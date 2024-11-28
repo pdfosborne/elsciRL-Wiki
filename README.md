@@ -4,7 +4,7 @@
 
 *Every problem can be automated with Language and Self-Completing Instructions.*
 
-![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=Followers&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL) ![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL-TextWorldExpress?style=for-the-badge&logo=github&label=Followers&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-TextWorldExpress) ![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL-TextWorldExpress?style=for-the-badge&logo=github&label=Followers&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-TextWorldExpress)  ![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)  
+![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)  ![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)  
 
 **Quicklinks:** [New Developers](<./New Developers.md>) | [elsciRL in Detail](<./Detailed Introduction to elsciRL.md>) | [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>) | [Introduction to Language RL](<./elsciRL Core/III - Language RL/1 - Introduction to Language RL.md>)
 
