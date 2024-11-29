@@ -39,7 +39,8 @@ exp.analyze()
 
 *The analyze function will return a combined chart for the experiments you just ran!*
 
-![variance\_comparison\_TRAINING](<./attachments/variance_comparison_TRAINING.png>)
+![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
+
 
 
 ## What does elsciRL provide?
