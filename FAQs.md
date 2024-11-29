@@ -1,12 +1,6 @@
-<a href="url"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL) [![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)](https://github.com/pdfosborne/elsciRL-Wiki)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
 
-# elsciRL (pronounced L-SEE)
-
-*Every problem can be automated with Language and Self-Completing Instructions.*
-
-[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
-
-**Quicklinks:** [Homepage](<./README.md>) | [New Developers](<./New Developers.md>)  | [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>) | [Introduction to Language RL](<./elsciRL Core/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [Homepage](<./README.md>)  | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/0 - New Developers.md>) | [Introduction to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 # What is the elsciRL framework?
 
@@ -24,7 +18,25 @@ Lastly, analysis formatting and structure is generated such that the individual 
 
 Provided a user can setup their problem using the template structure provided they can then leverage the most advanced Reinforcement Learning approaches with a simple parameter input. This also ensures the system is future-proof as new agents or encoders will be added as modules in later updates.
 
-# Python Library
+# What does elsciRL provide?
+
+A principle challenge of Reinforcement Learning is that there is currently no standard approach to designing a language based Reinforcement Learning solution. Instead, individual applications are purpose built, requiring both extensive Reinforcement Learning and software experience and rarely can be applied to another problem without significant remodelling effort. **elsciRL’s** mission is to solve this.
+
+The **elsciRL** framework separates the responsibilities of a Reinforcement Learning solution so that as much as possible can be applied by domain experts that may even be non-technical. 
+
+To achieve this, we provide:
+
+1. An open-source software to apply our framework with 'off the shelf' solutions
+2. A centralized repository of applications and examples
+3. A benchmarking suite to evaluate new methods 
+4. Documentation for all experience levels
+5. An open-source Wiki for the acceleration of language based reinforcement learning research
+6. A public Discord server for the community to connect and collaborate
+
+
+
+
+# What is included in the Python Library?
 
 elsciRL includes an open-source Python library designed to make it easier to apply Reinforcement Learning to language problems.
 
@@ -35,7 +47,7 @@ This is achieved with the following novel features:
 - Interaction Loops, Analysis and Evaluation protocols are pre-built and ready to use
 - Hierarchy methodologies are generally applicable so they can be more easily applied to new problems
 
-### Suggested Prerequisites 
+# What are the suggested prerequisites? 
 - Python experience
 - Understand the basics of Reinforcement Learning
 - Applied a Reinforcement Learning agent example with code

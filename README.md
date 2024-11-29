@@ -1,20 +1,35 @@
-<a href="url"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL) [![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)](https://github.com/pdfosborne/elsciRL-Wiki)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
 
-# elsciRL (pronounced L-SEE)
-
-*Every problem can be automated with Language and Self-Completing Instructions.*
-
-[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
-
-**Quicklinks:** [New Developers](<./New Developers.md>) | [elsciRL in Detail](<./Detailed Introduction to elsciRL.md>) | [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>) | [Introduction to Language RL](<./elsciRL Core/III - Language RL/1 - Introduction to Language RL.md>)
-
+**Quicklinks:**  [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/0 - New Developers.md>) | [Introduction to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 
 ## What is elsciRL?
 
-**elsciRL**  is new framework for incorporating language into Reinforcement Learning (RL) that accelerates problem solving and extracts valuable datasets.
+**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: *"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning"*.
 
-This puts us in a new AI space between the previous Reinforcement Learning libraries and recent generative AI language breakthroughs. 
+To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
+
+## Quick-start
+
+1. Install the Python library
+```
+pip install elsciRL
+```
+2. Run the demo experiment in a Python shell
+```python
+from elsciRL.examples.experiment import DemoExperiment
+exp = DemoExperiment()
+exp.run()
+exp.analyze()
+``` 
+*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation).*
+
+*The analyze function will return a combined chart for the experiments you just ran!*
+
+![variance\_comparison\_TRAINING](<./attachments/variance_comparison_TRAINING.png>)
+
+
+## What does elsciRL provide?
 
 A principle challenge of Reinforcement Learning is that there is currently no standard approach to designing a language based Reinforcement Learning solution. Instead, individual applications are purpose built, requiring both extensive Reinforcement Learning and software experience and rarely can be applied to another problem without significant remodelling effort. **elsciRL’s** mission is to solve this.
 
@@ -30,9 +45,4 @@ To achieve this, we provide:
 6. A public Discord server for the community to connect and collaborate
 
 
-![elsciRL_overview|480x295](<./Resources/images/elscirl_overview.png>)
 
-
-
-## Support our Work
-<a href="https://www.buymeacoffee.com/elscirl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Support this Project" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 

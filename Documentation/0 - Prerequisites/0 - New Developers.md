@@ -1,15 +1,9 @@
-<a href="url"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo.png" align="left" height="48" width="48" ></a>
+[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL) [![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)](https://github.com/pdfosborne/elsciRL-Wiki)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
 
-# elsciRL (pronounced L-SEE)
-
-*Every problem can be automated with Language and Self-Completing Instructions.*
-
-[![GitHub watchers](https://img.shields.io/github/watchers/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)](https://github.com/pdfosborne/elsciRL)  [![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)](https://discord.gg/A2dRVrhB)
-
-**Quicklinks:** [Homepage](<./README.md>) | [elsciRL in Detail](<./Detailed Introduction to elsciRL.md>) | [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>)  | [Introduction to Language RL](<./elsciRL Core/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [Homepage](<./README.md>) | [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Introduction to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 ## Getting Started with the Software
-If you are ready to begin applying the elsciRL Python library: [Getting Started](<./elsciRL Core/I - Introduction/1 - Getting Started.md>)
+If you are ready to begin applying the elsciRL Python library: [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
 
 ## Benchmarking Suite
 
@@ -22,7 +16,7 @@ You can develop your own agents, analysis and experiment protocols to compare ag
 
 ## Use the Open-Source Documentation for Personal Use
 
-The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed-up through GitHub as an open-source documentation site.
+The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed-up through GitHub as an open-source documentation site. 
 
 If you wish to download the documentation for personal use:
 1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)

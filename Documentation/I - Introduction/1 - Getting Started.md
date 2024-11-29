@@ -195,7 +195,7 @@ number of columns: 2
 largest column: none  
 ```
 
-**Previous:** [Detailed Introduction to elsciRL](<../../Detailed Introduction to elsciRL.md>)
+**Previous:** [FAQs](<../../FAQs.md>)
 
 --- end-column ---
 
