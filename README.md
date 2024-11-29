@@ -14,7 +14,11 @@
 
 ## What is elsciRL?
 
-**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: *"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning"*.
+**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
+
+<div align="center">
+ <i>"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning".</i>
+</div>
 
 To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
 
