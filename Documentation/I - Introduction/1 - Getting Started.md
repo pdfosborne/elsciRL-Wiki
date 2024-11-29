@@ -189,16 +189,7 @@ python test.py
 
 ---
 
---- start-multi-column: ExampleRegion1  
-```column-settings  
-number of columns: 2  
-largest column: none  
-```
 
-**Previous:** [FAQs](<../../FAQs.md>)
+**Previous:** [FAQs](<../../FAQs.md>)     <div style="text-align: right"> **Next:** [2 - Basic Applications](<./2 - Basic Applications.md>) </div>
 
---- end-column ---
 
- **Next:** [2 - Basic Applications](<./2 - Basic Applications.md>)
-
---- end-multi-column

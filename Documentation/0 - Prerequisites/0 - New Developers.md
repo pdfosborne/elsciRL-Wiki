@@ -34,8 +34,7 @@ By default, not all formatting will work without the correct plugins but they ca
 1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
 2. Lastly, restart obsidian
 
-![Obsidian settings](<./Resources/images/Obsidian settings.png>)
-
+![Obsidian settings](<./attachments/Obsidian settings.png>)
 
 ## Contributing to the Documentation
 
@@ -44,17 +43,3 @@ If you wish to contribute to the project:
 2. Edit the documentation locally with the core changes you wish to implement
 3. Open a new *Pull Request* and commit these changes
 
-## Planned Improvements
-
-```dataview
-TABLE WITHOUT ID
-  min(rows.file.folder) as Folder,
-  min(rows.file.link) as File, 
-  sum(rows.item.tags) as Tags, 
-  map(items, (r) => "[" + r.status + "] " + r.text) as Tasks
-FLATTEN file.tasks as item
-GROUP BY file.folder + file.name + item.tags
-FLATTEN array( filter( rows.item, (r) => r.status != "x" ) ) as items
-WHERE items
-```
-*This is a dynamic table created using the [dataview plugin](https://github.com/blacksmithgu/obsidian-dataview).*
