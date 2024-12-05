@@ -1,4 +1,9 @@
-# Automate Anything, Automate Everything.
+<div align="center">
+
+# elsciRL
+**Automate Anything, Automate Everything.**
+
+</div>
 
 <div align="center">
 
