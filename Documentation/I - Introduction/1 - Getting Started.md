@@ -1,3 +1,5 @@
+# Getting Started
+
 Table of Contents
 
 - [Installing the elsciRL Package](<#installing-the-elscirl-package>)
