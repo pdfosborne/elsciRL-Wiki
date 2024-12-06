@@ -1,6 +1,3 @@
----
-tags: []
----
 Central resource for references used in this work.
 
 

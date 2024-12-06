@@ -6,23 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Home](<./README.md>)  | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/0 - New Developers.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
-
-# What is the elsciRL framework?
-
-The elsciRL approach is a generally applicable instruction following method whereby a two-layer hierarchy is formed: 1) a high level instruction plan and 2) the low level environment interaction. Uniquely, this work does not assume that instructions (or sub-goals) need to be supervised. Instead, we assume the environment contains some language such that this can be completed unsupervised. Furthermore, the unsupervised completion of each instruction is presented back to the user and their feedback strengthens the quality of the matching between observed environment positions and expected outcomes.
-
-Instructions help greatly in mitigating the issue of long-term objectives never being reached and enable transfer of knowledge through the re-use of sub-instructions to new tasks.
-
-To make this work possible, we built this software solution such that it could enable the application of this work to any Reinforcement Learning problem. Unlike other Reinforcement Learning packages that are only designed to enable the importing a pre-built agent we go much further.
-
-First, we standardize the interaction loop setup such that setting up new problems is significantly easier and faster.
-
-Second, instead of simply importing pre-built agents into a custom system we reverse this process so the interaction loop can be imported into far more complex hierarchical solutions without needing to be purpose built to each problems.
-
-Lastly, analysis formatting and structure is generated such that the individual user only needs to interpret them to adjust parameters accordingly.
-
-Provided a user can setup their problem using the template structure provided they can then leverage the most advanced Reinforcement Learning approaches with a simple parameter input. This also ensures the system is future-proof as new agents or encoders will be added as modules in later updates.
+**Quicklinks:** [Home](<./README.md>)  | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/1 - New Contributors.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 # What does elsciRL provide?
 
@@ -39,7 +23,19 @@ To achieve this, we provide:
 5. An open-source Wiki for the acceleration of language based reinforcement learning research
 6. A public Discord server for the community to connect and collaborate
 
+# What is the elsciRL framework?
 
+The elsciRL approach is a generally applicable instruction following method whereby a two-layer hierarchy is formed: 1) a high level instruction plan and 2) the low level environment interaction. Uniquely, this work does not assume that instructions (or sub-goals) need to be supervised. Instead, we assume the environment contains some language such that this can be completed unsupervised. Furthermore, the unsupervised completion of each instruction is presented back to the user and their feedback strengthens the quality of the matching between observed environment positions and expected outcomes.
+
+Instructions help greatly in mitigating the issue of long-term objectives never being reached and enable transfer of knowledge through the re-use of sub-instructions to new tasks.
+
+To make this work possible, we designed a solution such that it could enable the application of this work to any Reinforcement Learning problem. Unlike other Reinforcement Learning packages that are only designed to enable the importing a pre-built agent we go much further.
+
+First, elsciRL standardizes the interaction loop setup such that setting up new problems is significantly easier and faster. These well defined interaction loop can be imported into far more complex hierarchical solutions without needing to be purpose built to each problems.
+
+Second, analysis formatting and structure is generated such that the individual user only needs to interpret them to adjust parameters accordingly.
+
+Lastly, provided a user can setup their problem using the template structure, they can use elsciRL to leverage the most advanced Reinforcement Learning libraries with a simple parameter input. This also ensures the system is future-proof as new agents or encoders will be added as modules in later updates.
 
 
 # What is included in the Python Library?

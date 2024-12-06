@@ -1,43 +1,31 @@
 # Getting Started
 
-Table of Contents
-
-- [Installing the elsciRL Package](<#installing-the-elscirl-package>)
-	- [1. Open the terminal (or Command Prompt) and run the following](<#1-open-the-terminal-or-command-prompt-and-run-the-following>)
-	- [2. Once installed, activate the newly created environment](<#2-once-installed-activate-the-newly-created-environment>)
-	- [3. Then, simply install the package through the PyPi interface](<#3-then-simply-install-the-package-through-the-pypi-interface>)
-- [Test the installation](<#test-the-installation>)
-	- [Test using the built-in example experiment](<#test-using-the-built-in-example-experiment>)
-		- [Custom parameters: User Input](<#custom-parameters-user-input>)
-		- [Custom parameters: Manually Defined](<#custom-parameters-manually-defined>)
-		- [Combined analysis output](<#combined-analysis-output>)
-		- [Running the examples as a complete script](<#running-the-examples-as-a-complete-script>)
-	- [Test the installation  with a downloaded application](<#test-the-installation--with-a-downloaded-application>)
-- [Notes](<#notes>)
----
-TO-DO:
- - [ ] Update images to 'elsciRL'
----
-# Installing the elsciRL Package
+## Installing the elsciRL Package
 To get started using elsciRL, it is first suggested to setup a new Python environment. This can be completed easily with [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#) with a recent or newest Python version. 
 
-## 1. Open the terminal (or Command Prompt) and run the following
+If you dont have Anaconda already, we suggest installing Miniconda.
+
+![Conda\_quick\_install](<./attachments/elsciRL_conda_install_short.gif>)
+
+### 1. Open the terminal (or Command Prompt) and run the following
 
 ```
 conda create -n elsciRL_env python=3.11
 ```
 	
-![QuickStart Terminal](<./attachments/QuickStart Terminal.png>)
+![Conda\_env\_setup](<./attachments/elsciRL_conda_env_short.gif>)
+
+
 
 *You can change the name from elsciRL_env to anything you'd like and update the Python version if needed.*
 
-## 2. Once installed, activate the newly created environment
+### 2. Once installed, activate the newly created environment
 
 ```
 conda activate elsciRL_env
 ```
 	
-## 3. Then, simply install the package through the PyPi interface
+### 3. Then, simply install the package through the PyPi interface
 
 ```
 pip install elsciRL
@@ -45,18 +33,11 @@ pip install elsciRL
 
 *This will install the required libraries alongside the core elsciRL package.*
 
-# Test the installation 
+## Test the installation 
 
-## Test using the built-in example experiment
+### Test using the built-in example experiment
 
 Once the elsciRL package is installed, you can run a quick experiment on a small set of pre-configured problems. 
-
-First, create a folder for saving the output then navigate to this directory in the command line. For example:
-
-```
-cd Documents/elsciRL-Tests
-```
-*Note - you will need to create the folder 'Examples' inside your documents for this to be accessible.*
 
 In the command line, enter the following command to enter the Python mode:
 
@@ -67,7 +48,7 @@ python
 You can now write and run Python code line by line. First, we need to import the example experiment from elsciRL:
 
 ```python
-from elsciRL.examples.experiment import DemoExperiment
+from elsciRL import DemoExperiment
 ```
 
 This imports the DemoExperiment module but it is not initialised yet, to do this we simply need to call it and we also assign it a name:
@@ -84,33 +65,29 @@ exp.run()
 
 This will complete a training and testing phase for a small set of example problems using a tabular Q-learning agent.
 
-![Demo Experiment](<./attachments/Demo Experiment.png>)
-
 Once complete, files will be saved in a timestamped directory for each problem that was run.
 
-![Demo Experiment Output](<./attachments/Demo Experiment Output.png>)
+![demo\_gif](<./Documentation/I - Introduction/attachments/elsciRL_demo_short.gif>)
 
 
-### Custom parameters: User Input
+#### Custom parameters: User Input
 
 The *DemoExperiment* module includes two methods for providing your own parameters.
 
 First, you can call the input function that allows you to select which problems you would like to test and provide the number of training episodes. This can be done as follows:
 
 ```python
-exp.user_input()
+exp.input()
 ```
 
 
-![Demo Experiment User Input](<./attachments/Demo Experiment User Input.png>)
 
-### Custom parameters: Manually Defined
+#### Custom parameters: Manually Defined
 
 Alternatively, you can manually specify more parameters and even hyper-parameters for the tabular Q-learning agent with the following function call:
 
 ```python
-exp.manual_config_overwrite(
-	selected_problems=['sailing','frozenlake'],
+exp.config(
 	num_train_episodes=1000, num_train_repeats=5,
 	num_test_episodes=10, number_test_repeats=5,
 	Qlearntab_params={
@@ -122,29 +99,29 @@ exp.manual_config_overwrite(
 For example, the following would set the number of training episodes and only run the sailing example:
 
 ```python
-exp.manual_config_overwrite(selected_problems='sailing', num_train_episodes=25000)
+exp.config(num_train_episodes=25000)
 ```
 
 *Note - you will need to run all changes in a single call of this function. You can reset to default parameters by simply using: 
 
 ```python
-exp.manual_config_overwrite()
+exp.config()
 ```
 
-Once an updated set of parameters are defined by either method, you can simply re-call:
+Once an updated set of parameters are defined by either method, you can simply re-call the run function and use this to specify which problems you want to try:
 
 ```python 
-exp.run()
+exp.run('sailing')
 ```
 
-### Combined analysis output
+#### Combined analysis output
 
 By default, results are shown for each agent's training and testing procedure and the summarised for the problem type.
 
 You can run an example visual analysis that elsciRL provides by simply calling the following function:
 
 ```python
-exp.analyze()
+exp.evaluate()
 ```
 
 
@@ -156,12 +133,12 @@ Understanding these results are explained in more detail in [3 - Output Format](
 
 This is highlighted best in the graphs on the left side where reward is shown on the y-axis. In other words, the red line for the Default adaptor on the Sailing problem returns the highest reward in training these parameters.
 
-### Running the examples as a complete script
+#### Running the examples as a complete script
 
 If you wish to test this demo out further, you can create a simple Python script file to run more results. An example of this could look like the following:
 
 ```python title:test.py
-from elsciRL.examples.experiment import DemoExperiment
+from elsciRL import DemoExperiment
 
 exp = DemoExperiment()
 
@@ -174,17 +151,17 @@ exp.manual_config_overwrite(
 )
 
 exp.run()
-exp.analyze()
+exp.evaluate()
 ```
 
-This can be saved (e.g. as *test.py*) and ran like any other Python script in your IDE simply using the following in the terminal:
+This can be saved (e.g. as *elsciRL_Demo.py*) and ran like any other Python script in your IDE simply using the following in the terminal:
 
 ```
-python test.py
+python elsciRL_Demo.py
 ```
 
 
-# Notes
+## Notes
 - You will need to have Python installed, ideally alongside Anaconda for defining the environment.
 - You will need to have Git installed if you wish to clone the demo application, otherwise you can manually download an application from its GitHub repository.
 - If you are interested in using the GPU instead of CPU to train agents, then you will need to setup [CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/) on your machine.

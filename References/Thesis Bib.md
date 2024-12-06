@@ -1,6 +1,3 @@
----
-tags: []
----
 % RL & RL4RL background
 
 @article{ dulac:rl-challenges,

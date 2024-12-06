@@ -1,11 +1,3 @@
-Table of Contents
-
-- [Pre-Configured Applications](<#pre-configured-applications>)
-- [Running your first Application](<#running-your-first-application>)
-	- [Running in an IDE](<#running-in-an-ide>)
-- [Custom Parameters](<#custom-parameters>)
-
----
 # Pre-Configured Applications
 
 The following applications are simple problems that allow us to try out some of the features of elsciRL. 

@@ -1,4 +1,4 @@
-# elsciRL
+# Homepage of elsciRL
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-**Quicklinks:**  [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/0 - New Developers.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:**  [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/1 - New Contributors.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 
 ## What is elsciRL?
@@ -33,14 +33,16 @@ pip install elsciRL
 ```
 2. Run the demo experiment in a Python shell
 ```python
-from elsciRL.examples.experiment import DemoExperiment
+from elsciRL import DemoExperiment
 exp = DemoExperiment()
 exp.run()
-exp.analyze()
+exp.evaluate()
 ``` 
 *This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation).*
 
-*The analyze function will return a combined chart for the experiments you just ran!*
+![demo\_gif](<./Documentation/I - Introduction/attachments/elsciRL_demo_short.gif>)
+
+*The 'evaluate' function will return a combined chart for the experiments you just ran!*
 
 ![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
 
