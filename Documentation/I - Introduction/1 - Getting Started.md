@@ -142,7 +142,7 @@ from elsciRL import DemoExperiment
 
 exp = DemoExperiment()
 
-exp.manual_config_overwrite(
+exp.config(
 	num_train_episodes=10000, num_train_repeats=25,
 	num_test_episodes=250, number_test_repeats=10,
 	Qlearntab_params={

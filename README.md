@@ -38,9 +38,15 @@ exp = DemoExperiment()
 exp.run()
 exp.evaluate()
 ``` 
-*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation).*
+*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
 
-![demo\_gif](<./Documentation/I - Introduction/attachments/elsciRL_demo_short.gif>)
+*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+
+
+<p float="center">
+  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailing_setup.png" width="100" />
+  <img src=https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailboat_render_animation.gif"" width="100" /> 
+</p>
 
 *The 'evaluate' function will return a combined chart for the experiments you just ran!*
 
