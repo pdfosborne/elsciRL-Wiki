@@ -44,8 +44,8 @@ exp.evaluate()
 
 
 <p float="center">
-  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailing_setup.png" width="100" />
-  <img src=https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailboat_render_animation.gif"" width="100" /> 
+  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailing_setup.png" width="200" />
+  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I - Introduction/attachments/sailboat_render_animation.gif" width="200" /> 
 </p>
 
 *The 'evaluate' function will return a combined chart for the experiments you just ran!*
