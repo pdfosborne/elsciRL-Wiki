@@ -25,35 +25,37 @@
 
 To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
 
-## Quick-start
+## Key Features
 
-1. Install the Python library
-```
-pip install elsciRL
-```
-2. Run the demo experiment in a Python shell
-```python
-from elsciRL import DemoExperiment
-exp = DemoExperiment()
-exp.run()
-exp.evaluate()
-``` 
-*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
+<div class="table_component" role="region" tabindex="0">
+<table>
+    <tbody>
+        <tr>
+            <td><h3>The quickest and easiest way to apply language based reinforcement learning.</h2>Open-source with off-the-shelf state of the art reinforcement learning and natural language methods.</td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elscirl_market_chart.png?raw=true" width="1000" /></td>
+        </tr>
+        <tr>
+            <td><h3>Enables guidance and control to non-technical end users.</h3>Extract and transfer knowledge between end users and problems. Our novel method also learns personalised intent of language commands.</td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-robot-talking.jpg?raw=true" width="1000" /></td>
+        </tr>
+        <tr>
+            <td><h3>Streamlines the process for automating any task.</h3>This includes an iterative approach for defining language into any application for setup lower costs and risks.</td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-whale-zooming.png?raw=true" width="1000" /></td>
+        </tr>
+        <tr>
+            <td><h3>Accelerates research and cutting edge development.</h3> First open-sourced knowledge base for language based reinforcement learning. Standardised evaluation and benchmarks including compute requirements.</td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-Graph-Example.png?raw=true" width="1000" /></td>
+        </tr>
+        <tr>
+            <td><h3>Decentralised and collaborative agent training.</h3>Language data and guidance is transferable between tasks and problems.</td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-decentralised.jpg?raw=true" width="1000" /></td>
+        </tr>
+    </tbody>
+</table>
 
-*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+</div>
 
-
-<p float="center">
-  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/attachments/sailing_setup.png?raw=true" width="300" />
-  <img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/I%20-%20Introduction/attachments/sailboat_render_animation.gif" width="375" /> 
-</p>
-
-
-*The 'evaluate' function will return a combined chart for the experiments you just ran!*
-
-![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
-
-
+![elsciRL-Wiki-Graph-Example](<./Resources/images/elsciRL-Wiki-Graph-Example.png>)
 
 ## What does elsciRL provide?
 

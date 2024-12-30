@@ -1,5 +1,10 @@
 .git
 
+_Personal
+_Personal/*
+Clippings
+Clippings/*
+
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/themes
@@ -18,3 +23,4 @@
 .obsidian-git/plugins/obsidian-zotero-desktop-connector
 .obsidian-git/plugins/zotlit
 .obsidian-git/plugins/mousewheel-image-zoom
+.obsidian-git/plugins/copilot

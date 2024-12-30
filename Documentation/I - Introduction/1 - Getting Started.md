@@ -1,4 +1,33 @@
-# Getting Started
+## Quick-start
+
+1. Install the Python library
+```
+pip install elsciRL
+```
+2. Run the demo experiment in a Python shell
+```python
+from elsciRL import DemoExperiment
+exp = DemoExperiment()
+exp.run()
+exp.evaluate()
+``` 
+*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
+
+*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+
+
+<p float="center">
+  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/attachments/sailing_setup.png?raw=true" width="300" />
+  <img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/I%20-%20Introduction/attachments/sailboat_render_animation.gif" width="375" /> 
+</p>
+
+
+*The 'evaluate' function will return a combined chart for the experiments you just ran!*
+
+![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
+
+
+# Detailed Guide for First Time Users
 
 ## Installing the elsciRL Package
 To get started using elsciRL, it is first suggested to setup a new Python environment. This can be completed easily with [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#) with a recent or newest Python version. 
