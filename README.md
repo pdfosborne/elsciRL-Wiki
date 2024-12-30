@@ -32,23 +32,23 @@ To achieve this, **elsciRL** offers a novel framework and infrastructure for acc
     <tbody>
         <tr>
             <td><h3>The quickest and easiest way to apply language based reinforcement learning.</h2>Open-source with off-the-shelf state of the art reinforcement learning and natural language methods.</td>
-            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elscirl_market_chart.png?raw=true" width="1000" /></td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elscirl_market_chart.png?raw=true" width="1000" /></td>
         </tr>
         <tr>
             <td><h3>Enables guidance and control to non-technical end users.</h3>Extract and transfer knowledge between end users and problems. Our novel method also learns personalised intent of language commands.</td>
-            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-robot-talking.jpg?raw=true" width="1000" /></td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-robot-talking.jpg?raw=true" width="1000" /></td>
         </tr>
         <tr>
             <td><h3>Streamlines the process for automating any task.</h3>This includes an iterative approach for defining language into any application for setup lower costs and risks.</td>
-            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-whale-zooming.png?raw=true" width="1000" /></td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-whale-zooming.png?raw=true" width="1000" /></td>
         </tr>
         <tr>
             <td><h3>Accelerates research and cutting edge development.</h3> First open-sourced knowledge base for language based reinforcement learning. Standardised evaluation and benchmarks including compute requirements.</td>
-            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-Graph-Example.png?raw=true" width="1000" /></td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-Graph-Example.png?raw=true" width="1000" /></td>
         </tr>
         <tr>
             <td><h3>Decentralised and collaborative agent training.</h3>Language data and guidance is transferable between tasks and problems.</td>
-            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/imgaes/elsciRL-Wiki-decentralised.jpg?raw=true" width="1000" /></td>
+            <td><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-decentralised.jpg?raw=true" width="1000" /></td>
         </tr>
     </tbody>
 </table>
