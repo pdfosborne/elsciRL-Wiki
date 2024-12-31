@@ -1,4 +1,4 @@
-# The Homepage of Language Solutions Reinforcement Learning
+# Solving Reinforcement Learning with Language
 
 <div align="center">
 
