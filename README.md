@@ -1,4 +1,4 @@
-# Homepage of elsciRL
+# The Homepage of Language Solutions Reinforcement Learning
 
 <div align="center">
 
