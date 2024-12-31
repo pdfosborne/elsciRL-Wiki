@@ -25,10 +25,10 @@
 
 To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
 
-This is also known as *AI agents* in relation to recent Large Language Model development (e.g. ChatGPT).
+This is also known as *AI agents* in relation to Large Language Model development (e.g. ChatGPT).
 
 <div align="center">
-<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elscirl_market_chart.png?raw=true" width="350"/>
+<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elscirl_market_chart.png?raw=true" width="500"/>
 </div>
 
 ## Key Features
@@ -37,16 +37,16 @@ This is also known as *AI agents* in relation to recent Large Language Model dev
 <table>
     <tbody>
         <tr>
-            <td><h3>The quickest and easiest way to apply language based Reinforcement Learning.</h2>Accelerate your development with our open-source software and includes state of the art Reinforcement Learning and language methods.<br><br>Reduce training costs and improve generalisability with language compared to other Reinforcement Learning libraries.<br><br><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-GitHub.png?raw=true" width="400" /></td>
+            <td><h3>The quickest and easiest way to improve Reinforcement Learning with language.</h2>Accelerate your development with our open-source software and includes state of the art Reinforcement Learning and language methods.<br><br>Reduce training costs and improve generalisability with language compared to other Reinforcement Learning libraries.<br><br><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-results-example.png?raw=true" width="500" /></td>
         </tr>
         <tr>
             <td><h3>Enable non-technical experts to offer guidance with language commands for any problem.</h3>Our patent pending framework allows you to extract and transfer knowledge between end users and problems. Our method also learns personalised intent of language commands for improved results.<br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-WebApp-Demo.png?raw=true" width="500" /></td>
         </tr>
         <tr>
-            <td><h3>Streamlines automating any task with language.</h3>A new iterative approach for defining language into any application. This greatly reduces costs and risks in early development where other methods require significantly more data to get started. <br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-results-example.png?raw=true" width="500" /> </td>
+            <td><h3>Streamlines automating any task with language.</h3>A new iterative approach for defining language into any application. This greatly reduces costs and risks in early development where other methods require significantly more data to get started. <br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elscirl_overview.png?raw=true" width="500" /> </td>
         </tr>
         <tr>
-            <td><h3>Accelerates research and cutting edge development.</h3> The first open-sourced knowledge base specifically for language based Reinforcement Learning. This also includes a set of standardised evaluation methods including compute requirements and comparison benchmarks. <br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-Graph-Example.png?raw=true" width="500" /></td>
+            <td><h3>Accelerates research and cutting edge development.</h3> The first open-sourced knowledge base specifically for language based Reinforcement Learning. This also includes a set of standardised evaluation methods including compute requirements and comparison benchmarks. <br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/sailing_language_adapter.png?raw=true" width="500" /></td>
         </tr>
         <tr>
             <td><h3>Decentralised and collaborative agent training.</h3>Language data and guidance is transferable between tasks and problems. With a focus on lowering compute requirements to train Reinforcement Learning, we enable communities to share their knowledge to solve problems with realistic resources.<br><br> <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-decentralised.jpg?raw=true" width="250" /></td>
