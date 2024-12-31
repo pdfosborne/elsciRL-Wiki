@@ -1,4 +1,4 @@
-## Quick-start
+# Quick-start
 
 1. Install the Python library
 ```
