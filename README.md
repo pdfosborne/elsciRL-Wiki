@@ -60,4 +60,4 @@ exp.evaluate()
 
 --- 
 
-**First Time Users:** [FAQs](<./FAQs.md>) |───────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
+**First Time Users:** [FAQs](<./FAQs.md>) |─────────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
