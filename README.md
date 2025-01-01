@@ -47,15 +47,12 @@ exp.evaluate()
 ``` 
 *This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
 
-*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+*The 'evaluate' function will produce animations showing the how well the best agent is currently trying to solve the problem. It will also return a combined chart for the experiments you just ran!*
 
 
 <div align="center">
   <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/attachments/sailing_setup.png?raw=true" width="240" />
   <img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/I%20-%20Introduction/attachments/sailboat_render_animation.gif" width="300" /> 
 </div>
-
-
-*The 'evaluate' function will return a combined chart for the experiments you just ran!*
 
 ![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
