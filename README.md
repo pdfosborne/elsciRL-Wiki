@@ -1,6 +1,6 @@
 # Solving Reinforcement Learning with Language
 
-<a href="https://elsci.org"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsci-whale-logo.png" align="left" height="160" width="160" ></a>
+<a href="https://elsci.org"><img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsci-whale-logo.png" align="left" height="150" width="150" ></a>
 
 <div align="center">
 
