@@ -70,7 +70,7 @@ This is also known as *AI agents* in relation to Large Language Model developmen
             <section class="panel_d">
                 <h3>Accelerates research and cutting edge development.</h3>
                 <a href="https://elsci.org/Documentation/0+-+Prerequisites/1+-+New+Contributors" >Contribute to the Open-Source Software or Wiki!</a>
-                <p>The first open-sourced knowledge base specifically for language based Reinforcement Learning. This also includes standardised evaluation methods, hardware statistics and a set comparison benchmarks.</p>
+                <p>The first open-sourced knowledge base specifically for language based Reinforcement Learning. This also includes standardised evaluation methods, hardware statistics and a set of comparison benchmarks.</p>
                 <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-Wiki-Graph-Example.png?raw=true" alt="img">
             </section>
             
@@ -90,29 +90,29 @@ This is also known as *AI agents* in relation to Large Language Model developmen
 </div> <!-- // #container -->
 
 
-## Full Directory
+## Directory
 
 <a href="https://elsci.org/" >elscRL.org</a> 
-│   <a href="https://elsci.org/Readme   " >README</a> 
-│   <a href="https://elsci.org/FAQs   " >FAQs</a> 
+│   <a href="https://elsci.org/FAQs" >FAQs</a>
+│   <a href="https://elsci.org/About+Us" >About Us</a>
 │
 └───Applications
-│------└───<a href="https://elsci.org/Applications/Applications+-+Overview" >Applications Overview</a>
+│------└───<a href="https://elsci.org/Applications/Applications+Overview" >Applications Overview</a>
 │------└───Applications Directory
 │-------------└─── <a href="https://elsci.org/Applications/Applications/2023-sailing-simulation" >Sailing Simulation</a>
 │-------------└─── ...
 │   
 └───Documentation
-│------└───<a href="https://elsci.org/Documentation/Documentation+-+Info" >Documentation Info</a>
+│------└───<a href="https://elsci.org/Documentation/Documentation+Info" >Documentation Info</a>
 │------└───Prerequisites
-│-------------└───<a href="https://elsci.org/Applications/Documentation/0+-+-+-+Prerequisites/1+-=-+-+New+-+Contributors" >1 - New Contributors</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/0+-+-+-+Prerequisites/2+-=-+-+Introduction+-+to+-+Reinforcement+-+Learning" >1 - New Contributors</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/0+-+Prerequisites/1+-+New+Contributors" >1 - New Contributors</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/0+-+Prerequisites/2+-+Introduction+to+Reinforcement+Learning" >1 - New Contributors</a>
 │------└───Introduction
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+-+-+Introduction/1+-=-+-+Getting+-+Started" >1 - Getting Started</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+-+-+Introduction/2+-=-+-+Basic+-+Applications" >2 - Basic Applications</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+-+-+Introduction/3+-=-+-+Output+-+Format" >3 - Output Format</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+-+-+Introduction/4+-=-+-+Configuration" >4 - Configuration</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+-+-+Introduction/5+-=-+-+Agent+-+Libraries" >5 - Agent Libraries</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/1+-+Getting+Started" >1 - Getting Started</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/2+-+Basic+Applications" >2 - Basic Applications</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/3+-+Output+Format" >3 - Output Format</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/4+-+Configuration" >4 - Configuration</a>
+│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/5+-+Agent+Libraries" >5 - Agent Libraries</a>
 │------└───New Applications
 │------└───Language & Reinforcement Learning
 │------└───Hierarchies

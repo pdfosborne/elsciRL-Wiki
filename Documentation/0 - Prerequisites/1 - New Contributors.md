@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](<./README.md>) | [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 ## Getting Started with the Software
 If you are ready to begin applying the elsciRL Python library: [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
