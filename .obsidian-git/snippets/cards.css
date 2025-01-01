@@ -1,7 +1,7 @@
 #container {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top;
     min-height: 100vh;
 }
             
@@ -12,8 +12,8 @@
             
 #carousel {
     overflow: hidden;
-    width: 750px;
-    height: 750px;
+    width: 600px;
+    height: 600px;
     border-radius: 4px;
     background-color: #000000;
 }

@@ -27,8 +27,7 @@ To achieve this, **elsciRL** offers a novel framework and infrastructure for acc
 
 This is also known as *AI agents* in relation to Large Language Model development (e.g. ChatGPT).
 
-<!-- // The following are html snippets used for the website but may not display well in raw markdown format, to view them please visit https://elsci.org. -->
-
+## Features
 <div id="container"> 
     <input hidden type="radio" name="carousel-control" id="button_a" checked/>
     <input hidden type="radio" name="carousel-control" id="button_b"/>
@@ -47,7 +46,6 @@ This is also known as *AI agents* in relation to Large Language Model developmen
         <div class="p-wrapper">
                     
             <section class="panel_a">
-	            <h1>Features</h1>
                 <h3>The quickest and easiest way to improve Reinforcement Learning with language.</h3>
                 <a href="https://elsci.org/Documentation/I+-+Introduction/1+-+Getting+Started" >Get started as a new developer.</a>
                 <p>Accelerate your development with our open-source software and includes state of the art Reinforcement Learning and language methods. Reduce training costs and improve generalisability with language compared to numeric Reinforcement Learning libraries.</p>
