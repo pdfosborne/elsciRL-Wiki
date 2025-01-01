@@ -49,7 +49,7 @@ exp.evaluate()
 
 *The 'evaluate' function will produce animations showing the how well the best agent is currently trying to solve the problem. It will also return a combined chart for the experiments you just ran, examples of this are shown below!*
 
-**First Time Users:** [FAQs](<../../FAQs.md>) |────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
+**First Time Users:** [FAQs](<../../FAQs.md>) |───────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
 
 
 <div align="center">
