@@ -27,7 +27,7 @@ To achieve this, **elsciRL** offers a novel framework and infrastructure for acc
 
 This is also known as *AI agents* in relation to Large Language Model development (e.g. ChatGPT).
 
-<div id="container"> <!-- // The following are html snippets used for the website but may not display well in raw markdown format, to view them please visit https://elsci.org.-->
+<div id="container"> <!-- // The following are html snippets used for the website but may not display well in raw markdown format, to view them please visit https://elsci.org. -->
     <input hidden type="radio" name="carousel-control" id="button_a" checked/>
     <input hidden type="radio" name="carousel-control" id="button_b"/>
     <input hidden type="radio" name="carousel-control" id="button_c"/>
