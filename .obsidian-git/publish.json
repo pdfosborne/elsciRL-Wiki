@@ -2,5 +2,9 @@
   "siteId": "c358e4c43029ac518039b56780b52eef",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "References",
+    "Resources",
+    "_Personal"
+  ]
 }
