@@ -55,5 +55,5 @@ This is achieved with the following novel features:
 - Applied a Reinforcement Learning agent example with code
 
 <div id="sticky-button">
-  <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/af9f00c8f2150e215deaed078d3ce5793f607705/Resources/images/discord_icon.svg" width="50"></a>
+  <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>
   </div>
