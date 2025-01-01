@@ -47,7 +47,10 @@ exp.evaluate()
 ``` 
 *This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
 
-*The 'evaluate' function will produce animations showing the how well the best agent is currently trying to solve the problem. It will also return a combined chart for the experiments you just ran!*
+*The 'evaluate' function will produce animations showing the how well the best agent is currently trying to solve the problem. It will also return a combined chart for the experiments you just ran, examples of this are shown below!*
+
+**First Time Users:** [FAQs](<../../FAQs.md>)   <div style="text-align: right"> **Next Step:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
+
 
 
 <div align="center">
@@ -56,3 +59,4 @@ exp.evaluate()
 </div>
 
 ![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
+

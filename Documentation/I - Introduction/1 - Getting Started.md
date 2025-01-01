@@ -197,7 +197,4 @@ python elsciRL_Demo.py
 
 ---
 
-
 **Previous:** [FAQs](<../../FAQs.md>)     <div style="text-align: right"> **Next:** [2 - Basic Applications](<./2 - Basic Applications.md>) </div>
-
-
