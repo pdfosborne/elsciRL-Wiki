@@ -35,11 +35,49 @@ This has also been known as _AI agents_ where we uniquely do not require the p
 
 See the [[Documentation/I - Introduction/1 - Getting Started|Getting Started]] for a first time user guide to applying the Python library.
 
+## Quick-start
+
+1. Install the Python library
+```
+pip install elsciRL
+```
+2. Run the demo experiment in a Python shell
+```python
+from elsciRL import DemoExperiment
+exp = DemoExperiment()
+exp.run()
+exp.evaluate()
+``` 
+*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
+
+*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+
+See [[Documentation/I - Introduction/1 - Getting Started|Getting Started]] for more information on applying to Python library.
+
 ## Download the Wiki
 
-![[Documentation/0 - Prerequisites/1 - New Contributors#^f24b1c|Quick-start with Wiki]]
+The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed-up through GitHub as an open-source documentation site. 
 
-See [[Documentation/0 - Prerequisites/1 - New Contributors|1 - New Contributors]] for more information on contributing to the open-source development of this project.
+If you wish to download the documentation for personal use: ^58a83d
+	1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+	2. Unzip the Vault to a local directory (e.g. inside Documents)
+	3. [Download Obsidian.md](https://obsidian.md/download)
+	4. Open the Obsidian software
+	5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
+
+See [[Documentation/0 - Prerequisites/1 - New Contributors|New Contributors Guide]] for more information on contributing to the open-source development of this project.
+
+### Obsidian Configuration
+
+By default, not all formatting will work without the correct plugins but they can be setup by:
+1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
+2. Lastly, restart obsidian
+
+We also use a set of custom css snippets that you can enable in settings > appearance > CSS snippets at the bottom.
+
+![Obsidian settings](<./attachments/Obsidian settings.png>)
+
+
 
 --- 
 

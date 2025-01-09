@@ -19,7 +19,7 @@ Our results show that even a small amount of guidance can improve the agent's tr
 Furthermore, the input allows you to do this in an intuitive language form. This is in contrast to prior works in Reinforcement Learning that require a supervised input to reach a numeric position (e.g. if 0<x<0.5, 0<angle<0.5 then reward=+0.1) which then is hard-coded into the agent's training.
 
 # Local Version
-To run the full demo that can train an agent using your local machine, first ensure you have installed $elsciRL\geq0.1.6$ and $Flask$:
+To run the full demo that can train an agent using your local machine, first ensure you have installed $elsciRL\geq0.1.7$ and $Flask$:
 
 ```
 pip install elscirl
