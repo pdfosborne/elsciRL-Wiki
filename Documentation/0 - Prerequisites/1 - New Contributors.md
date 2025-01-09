@@ -24,12 +24,12 @@ You can develop your own agents, analysis and experiment protocols to compare ag
 
 The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed-up through GitHub as an open-source documentation site. 
 
-If you wish to download the documentation for personal use:
-1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
-2. Unzip the Vault to a local directory (e.g. inside Documents)
-3. [Download Obsidian.md](https://obsidian.md/download)
-4. Open the Obsidian software
-5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder
+If you wish to download the documentation for personal use: ^58a83d
+	1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+	2. Unzip the Vault to a local directory (e.g. inside Documents)
+	3. [Download Obsidian.md](https://obsidian.md/download)
+	4. Open the Obsidian software
+	5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder ^f24b1c
 
 *You can open the vault in any software that can read markdown files but it is suggested you use Obsidian.md as we use some features and plugins to improve the experience.*
 

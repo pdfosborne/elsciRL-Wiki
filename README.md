@@ -31,33 +31,16 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
 
-This is also known as *AI agents* in relation to Large Language Model development (e.g. ChatGPT).
+This has also been known as _AI agents_ where we uniquely do not require the problem to contain language inherently.
 
-## Quick-start
+See the [[Documentation/I - Introduction/1 - Getting Started|Getting Started]] for a first time user guide to applying the Python library.
 
-1. Install the Python library
-```
-pip install elsciRL
-```
-2. Run the demo experiment in a Python shell
-```python
-from elsciRL import DemoExperiment
-exp = DemoExperiment()
-exp.run()
-exp.evaluate()
-``` 
-*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
+## Download the Wiki
 
-*The 'evaluate' function will produce animations showing the how well the best agent is currently trying to solve the problem. It will also return a combined chart for the experiments you just ran, examples of this are shown below!*
+![[Documentation/0 - Prerequisites/1 - New Contributors#^f24b1c|Quick-start with Wiki]]
 
-
-<div align="center">
-  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/attachments/sailing_setup.png?raw=true" width="240" />
-  <img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/I%20-%20Introduction/attachments/sailboat_render_animation.gif" width="300" /> 
-</div>
-
-![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
+See [[Documentation/0 - Prerequisites/1 - New Contributors|1 - New Contributors]] for more information on contributing to the open-source development of this project.
 
 --- 
 
-**First Time Users:** [FAQs](<./FAQs.md>) |─────────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
+**First Time Users:** [FAQs](<./FAQs.md>) |─────────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
