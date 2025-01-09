@@ -79,4 +79,4 @@ We also use a set of custom css snippets that you can enable in settings > appea
 
 --- 
 
-**First Time Users:** [FAQs](<./FAQs.md>) |─────────────────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
+**First Time Users:** [FAQs](<./FAQs.md>) |─────────────────────────| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
