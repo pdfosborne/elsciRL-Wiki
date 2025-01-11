@@ -1,4 +1,5 @@
-# Solving Reinforcement Learning with Language
+# elsci AI
+## Solve Reinforcement Learning with Language
 
 <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsci-whale-logo.png" align="left" height="150" width="150" ></a>
 
@@ -21,7 +22,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 
 
-## What is elsciRL?
+## What is elsci?
 
 **elsci (pronounced L-SEE)** is an abbreviation of our mission: 
 
