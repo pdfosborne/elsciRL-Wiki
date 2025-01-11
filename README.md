@@ -35,6 +35,8 @@ This has also been known as *AI agents* but we notably do not require the proble
 
 See the [[Documentation/I - Introduction/1 - Getting Started|Getting Started]] for a first time user guide to applying the Python library. 
 
+<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits.png?raw=true" />
+
 ## Quick-start
 
 1. Install the Python library
