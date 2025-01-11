@@ -1,4 +1,4 @@
-# Solving Reinforcement Learning with Language
+# The Homepage of elsci AI
 
 <div align="center">
 
@@ -16,19 +16,17 @@
 
 <a href="https://osbornep.pythonanywhere.com/" class="button">Try the Online Demo!</a>
 
-## What is elsciRL?
+## What is elsci?
 
-**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
+**elsci (pronounced L-SEE)** is an abbreviation of our mission: 
 
 <div align="center">
- <i>"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning".</i>
+ <i>"Everything can be automated using Language and Self-Completing Instructions".</i>
 </div>
 
-To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning solutions.
+To achieve this, **elsci** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
 
-This has also been known as *AI agents* where we uniquely do not require the problem to contain language inherently.
-
-![[Resources/images/elsciRL-key-benefits.png]]
+This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
 <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits.png?raw=true" />
 
