@@ -1,5 +1,5 @@
 # elsciRL
-## Solve Reinforcement Learning with Language
+## Language AI + Reinforcement Learning
 
 <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsci-whale-logo.png" align="left" height="150" width="150" ></a>
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Automate Anything, Automate Everything.**
+**Language AI + Reinforcement Learning**
 
 </div>
 
