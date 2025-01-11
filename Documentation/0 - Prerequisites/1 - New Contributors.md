@@ -25,11 +25,11 @@ You can develop your own agents, analysis and experiment protocols to compare ag
 The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed-up through GitHub as an open-source documentation site. 
 
 If you wish to download the documentation for personal use: ^58a83d
-	1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+	1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki) (click the *Code* button > *Download ZIP*)
 	2. Unzip the Vault to a local directory (e.g. inside Documents)
 	3. [Download Obsidian.md](https://obsidian.md/download)
 	4. Open the Obsidian software
-	5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder ^f24b1c
+	5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
 *You can open the vault in any software that can read markdown files but it is suggested you use Obsidian.md as we use some features and plugins to improve the experience.*
 
@@ -45,7 +45,10 @@ By default, not all formatting will work without the correct plugins but they ca
 ## Contributing to the Documentation
 
 If you wish to contribute to the project:
-1. Clone the vault repository a local directory 
-2. Edit the documentation locally with the core changes you wish to implement
-3. Open a new *Pull Request* and commit these changes
+1. Fork the vault repository.
+2. Clone the vault repository a local directory 
+3. Edit the documentation locally with the core changes you wish to implement
+4. Commit your changes to a new branch.
+5. Push the new branch to your forked repository
+6. Open a new *Pull Request* at the vault repository for committing your changes.
 
