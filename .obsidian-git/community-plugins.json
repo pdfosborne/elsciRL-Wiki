@@ -16,5 +16,7 @@
   "new-tab-plus",
   "new-tab-default-page",
   "dataview",
-  "copilot"
+  "copilot",
+  "focus-time",
+  "latex-exporter"
 ]
