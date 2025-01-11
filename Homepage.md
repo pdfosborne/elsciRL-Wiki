@@ -28,7 +28,7 @@ To achieve this, **elsci** offers a novel framework and infrastructure for accel
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
-<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-AI.png?raw=true" />
+<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt.png?raw=true" />
 
 ## Features
 
