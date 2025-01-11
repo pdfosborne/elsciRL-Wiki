@@ -28,9 +28,9 @@ To achieve this, **elsciRL** offers a novel framework and infrastructure for acc
 
 This has also been known as *AI agents* where we uniquely do not require the problem to contain language inherently.
 
+![[Resources/images/elsciRL-key-benefits.png]]
 
-
-
+<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits.png?raw=true" />
 
 ## Features
 
