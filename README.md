@@ -27,7 +27,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 **elsci (pronounced L-SEE)** is an abbreviation of our mission: 
 
 <div align="center">
- <i>"Everything can be automated using Language and Self-Completing Instructions".</i>
+ <b><i>"Everything can be automated using Language and Self-Completing Instructions".</i></b>
 </div>
 
 To achieve this, **elsci** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.

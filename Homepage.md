@@ -21,7 +21,7 @@
 **elsci (pronounced L-SEE)** is an abbreviation of our mission: 
 
 <div align="center">
- <i>"Everything can be automated using Language and Self-Completing Instructions".</i>
+ <p style="font-size:150%;color:#c800ff"><b><i>"Everything can be automated using Language and Self-Completing Instructions".</i></b></p>
 </div>
 
 To achieve this, **elsci** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.

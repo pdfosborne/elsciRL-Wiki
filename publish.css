@@ -120,8 +120,9 @@ body {
 
 a.button {
     padding: 6px 8px;
-    border: 0px outset;
-    border-radius: 3px;
+    border: 4px;
+	border-color: rgb(255, 200, 255);
+    border-radius: 2px;
     font-family: Phantomsans, sans-serif;
     font-size: 24px;
     box-shadow: rgba(150, 65, 255, 0.8) 0 5px 30px -5px;
@@ -235,8 +236,8 @@ ins{
     box-shadow: 0 0 100px 40px #ffffff08;
     top: -10%;
     left: -100%;
-    transform: rotate(-45deg);
-    height: 100rem;
+    /* transform: rotate(-45deg); */
+    /* height: 100rem; */
     transition: .7s all;
 }
 &:hover{

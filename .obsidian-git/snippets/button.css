@@ -1,10 +1,11 @@
 a.button {
     padding: 6px 8px;
-    border: 0px outset;
-    border-radius: 3px;
+    border: 4px;
+    border-color: rgb(200, 0, 255);
+    border-radius: 2px;
     font-family: Phantomsans, sans-serif;
     font-size: 24px;
-    box-shadow: rgba(151, 65, 252, 0.8) 0 5px 30px -5px;
+    box-shadow: #9741fccc 0 5px 30px -5px;
     color: white;
     background-color: rgba(200, 0, 255, 1);
     text-decoration: none;
