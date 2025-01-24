@@ -33,8 +33,7 @@ This has also been known as *AI agents* but we notably do not require the proble
 ## Interface Demo
 
 
-![elsciRL-App-demo](https://youtu.be/JbPtl7Sk49Y)
-
+[![](https://youtu.be/JbPtl7Sk49Y)](https://youtu.be/JbPtl7Sk49Y)
 
 
 ## Features
