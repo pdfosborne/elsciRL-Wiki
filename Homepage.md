@@ -32,8 +32,9 @@ This has also been known as *AI agents* but we notably do not require the proble
 
 ## Interface Demo
 
-[![elsciRL-Demo-Video](https://img.youtube.com/vi/JbPtl7Sk49Y/0.jpg)](https://www.youtube.com/watch?v=JbPtl7Sk49Y)
-
+<iframe width="850" height="425"  
+src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
+</iframe>
 
 ## Features
 
