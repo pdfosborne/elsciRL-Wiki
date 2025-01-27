@@ -22,12 +22,12 @@ a.button-63 {
   color: #FFFFFF;
   display: flex;
   font-family: Phantomsans, sans-serif;
-  font-size: 24px;
+  font-size: 16px;
   justify-content: center;
   line-height: 1em;
   max-width: 300px;
   min-width: 140px;
-  padding: 19px 24px;
+  padding: 10px 10px;
   text-decoration: none;
   user-select: none;
   -webkit-user-select: none;
