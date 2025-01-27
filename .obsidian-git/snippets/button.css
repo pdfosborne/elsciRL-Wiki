@@ -57,7 +57,7 @@ a.button-64 {
   line-height: 1em;
   max-width: 75%;
   min-width: 140px;
-  padding: 3px;
+  padding: 12px;
   text-decoration: none;
   user-select: none;
   -webkit-user-select: none;
@@ -73,7 +73,7 @@ a.button-64:hover {
 
 a.button-64 span {
   background-color: rgb(5, 6, 45);
-  padding: 16px 24px;
+  padding: 24px 24px;
   border-radius: 6px;
   width: 100%;
   height: 100%;
@@ -86,7 +86,7 @@ a.button-64:hover span {
 
 @media (min-width: 768px) {
   a.button-64 {
-    font-size: 24px;
+    font-size: 48px;
     min-width: 196px;
   }
 }
