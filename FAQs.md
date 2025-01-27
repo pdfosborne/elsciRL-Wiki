@@ -51,8 +51,7 @@ This is achieved with the following novel features:
 
 # What are the suggested prerequisites? 
 - Python experience
-- Understand the basics of Reinforcement Learning
-- Applied a Reinforcement Learning agent example with code
+- A basic understanding of Reinforcement Learning
 
 <div id="sticky-button">
   <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>
