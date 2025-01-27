@@ -30,7 +30,7 @@
 
 ## What is elsci?
 <div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3.png?raw=true" />
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3-cropped.png?raw=true" />
 	<a href="https://osbornep.pythonanywhere.com/" class="button-64">Try the Online Demo!</a>
 </div>
 
