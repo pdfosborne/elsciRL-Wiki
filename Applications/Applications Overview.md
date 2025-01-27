@@ -1,5 +1,5 @@
 # elsciRL Applications
 
-|  Application   | App Code | Date Published | Author | Config Codes | Adapter Codes | Description | Data Source |
-| :---: | :---: | :---: | :--- | :--- | :---: | :--- |:--- |
-| **Sailing Simulation** | *elsciRL-Sailing* | 2024 | Philip Osborne | *[easy]* | *[default, language]* | ![[Applications/Applications Directory/2023-sailing-simulation#^c7be66]]  | ![[Applications/Applications Directory/2023-sailing-simulation#^a5320e]]    |     |
+|  Application   | App Code | Published by | Description | Data Source |
+| :---: | :---: | :---: | :--- |:--- |
+| Sailing Simulation (2024-sailing-simulation) | *elsciRL-Sailing* | elsciRL, 2024 | ![[./Applications Directory/2024-sailing-simulation#^c7be66]]  | ![[./Applications Directory/2024-sailing-simulation#^a5320e]]    |     |

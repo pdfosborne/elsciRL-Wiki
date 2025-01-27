@@ -2,7 +2,7 @@
 **Language AI + Reinforcement Learning**
 <div class="card-grid">  
 	<div class="price">
-		  <p><a href="https://elsci.org/Documentation/0+-+Prerequisites/3+-+Live+Demo" class="button-63">USE THE APP</a></p>
+		  <p><a href="https://elsci.org/App+Interface+Guide" class="button-63">USE THE APP</a></p>
 	</div>
 	<div class="price" align="center">
 		  <p><a href="https://elsci.org/Documentation/I+-+Introduction/1+-+Getting+Started" class="button-63" >NEW DEVS</a></p>
@@ -43,42 +43,17 @@ To achieve this, **elsci** offers a novel framework and infrastructure for accel
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
 <div align="center">
-	<a href="https://osbornep.pythonanywhere.com/" class="button-64">Try the Online Demo</a>
+	<a href="https://osbornep.pythonanywhere.com/" class="button-63">Try the Online Demo</a>
 	<p></p>
-	<iframe width="600" height="425"  
+	<iframe width="700" height="400"  
 		src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
 	</iframe>
 </div>
 
 ----
 
-## Directory
+**Quicklinks:**  [About Us](<./About Us>) | [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Guide](<./App Interface Guide.md>)
 
-<a href="https://elsci.org/" >elscRL.org</a> 
-│   <a href="https://elsci.org/FAQs" >FAQs</a>
-│   <a href="https://elsci.org/About+Us" >About Us</a>
-│
-└───Applications
-│------└───<a href="https://elsci.org/Applications/Applications+Overview" >Applications Overview</a>
-│------└───Applications Directory
-│-------------└─── <a href="https://elsci.org/Applications/Applications/2023-sailing-simulation" >Sailing Simulation</a>
-│-------------└─── ...
-│   
-└───Documentation
-│------└───<a href="https://elsci.org/Documentation/Documentation+Info" >Documentation Info</a>
-│------└───Prerequisites
-│-------------└───<a href="https://elsci.org/Applications/Documentation/0+-+Prerequisites/1+-+New+Contributors" >1 - New Contributors</a>
-│------└───Introduction
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/1+-+Getting+Started" >1 - Getting Started</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/2+-+Basic+Applications" >2 - Basic Applications</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/3+-+Output+Format" >3 - Output Format</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/4+-+Configuration" >4 - Configuration</a>
-│-------------└───<a href="https://elsci.org/Applications/Documentation/1+-+Introduction/5+-+Agent+Libraries" >5 - Agent Libraries</a>
-│------└───New Applications
-│------└───Language & Reinforcement Learning
-│------└───Hierarchies
-│------└───Benchmarking Suite
-│------└───Custom Development
 
 
 <div id="sticky-button">
