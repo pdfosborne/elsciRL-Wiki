@@ -6,7 +6,8 @@
 
 </div>
 
-**Quicklinks:** [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [App Interface Guide](<./App Interface Guide.md>)
+
 
 ## Getting Started with the Software
 If you are ready to begin applying the elsciRL Python library: [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
@@ -40,7 +41,7 @@ By default, not all formatting will work without the correct plugins but they ca
 1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
 2. Lastly, restart obsidian
 
-![Obsidian settings](<./attachments/Obsidian settings.png>)
+![Obsidian settings](<./Documentation/0 - Prerequisites/attachments/Obsidian settings.png>)
 
 ## Contributing to the Documentation
 

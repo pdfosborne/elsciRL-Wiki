@@ -40,7 +40,7 @@ a.button-63 {
 
 a.button-63:active,
 a.button-63:hover {
-	background: #c800ff;
+	background: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
 	color: #FFF;
 }
 

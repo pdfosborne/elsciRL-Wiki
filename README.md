@@ -18,7 +18,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 </div>
 
 
-**Quicklinks:**  [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/1 - New Contributors.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:**  [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>)
 
 
 
@@ -69,7 +69,7 @@ If you wish to download the documentation for personal use:
 4. Open the Obsidian software
 5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
-See [New Contributors Guide](<./Documentation/0 - Prerequisites/1 - New Contributors.md>) for more information on contributing to the open-source development of this project.
+See [New Contributors Guide](<./Become a Contributor.md>) for more information on contributing to the open-source development of this project.
 
 ### Obsidian Configuration
 
@@ -82,5 +82,18 @@ We also use a set of custom css snippets that you can enable in settings > appea
 ![osbsidian\_settings](https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/0%20-%20Prerequisites/attachments/Obsidian%20settings.png)
 
 --- 
+
+Please use the following to cite this work
+
+```bibtex
+  title        = {Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language},  
+  author       = {Philip Osborne},  
+  year         = 2024,  
+  month        = {August},  
+  address      = {Manchester, UK},  
+  note         = {Available at \url{https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu}},  
+  school       = {Department of Computer Science},  
+  type         = {PhD thesis}
+```
 
 **First Time Users:** [FAQs](<./FAQs.md>) |───────────────--──| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
