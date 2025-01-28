@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Documentation/0 - Prerequisites/1 - New Contributors.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 # What does elsciRL provide?
 
@@ -51,8 +51,7 @@ This is achieved with the following novel features:
 
 # What are the suggested prerequisites? 
 - Python experience
-- Understand the basics of Reinforcement Learning
-- Applied a Reinforcement Learning agent example with code
+- A basic understanding of Reinforcement Learning
 
 <div id="sticky-button">
   <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>

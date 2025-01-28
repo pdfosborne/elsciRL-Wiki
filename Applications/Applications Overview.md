@@ -1,8 +1,5 @@
 # elsciRL Applications
 
-Documentation for the applications built using the elsciRL library.
-
-The Applications Database can be viewed in Obsidian using the Loom plugin.
-
-![Applications Database Example](<./attachments/Applications Database Example.png>)
-
+|  Application   | App Code | Published by | Link |
+| :---: | :---: | :---: | :---: |
+| Sailing Simulation | *elsciRL-Sailing* | elsciRL (2024) |  [elscRL-App-Sailing](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Applications/Applications%20Directory/2024-sailing-simulation.md) |

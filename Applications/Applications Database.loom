@@ -2,9 +2,9 @@
   "model": {
     "columns": [
       {
-        "id": "1f9eea41-0826-4286-a98b-ce4c9ae75c40",
+        "id": "722c96ba-d296-4516-9741-f112a84b8f41",
         "sortDir": "default",
-        "isVisible": false,
+        "isVisible": true,
         "width": "140px",
         "type": "source",
         "numberPrefix": "",
@@ -23,10 +23,11 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
       },
       {
-        "id": "a63e9610-a080-47c0-a317-2255131fe1ab",
+        "id": "5398eec2-4856-4f13-b3e8-791035808c0a",
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
@@ -47,7 +48,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": null
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
       },
       {
         "id": "ef9105c9-1622-403a-af18-ef3685bf35ff",
@@ -71,7 +73,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "publisher"
+        "frontmatterKey": "publisher",
+        "multiTagSortDir": "default"
       },
       {
         "id": "013a2f17-fb8b-4192-9c70-7ec316801521",
@@ -101,7 +104,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "type"
+        "frontmatterKey": "type",
+        "multiTagSortDir": "default"
       },
       {
         "id": "8cc26c31-c00f-4e3a-afa6-c9088fd892a0",
@@ -125,7 +129,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "title"
+        "frontmatterKey": "title",
+        "multiTagSortDir": "default"
       },
       {
         "id": "ec52549d-5a55-4c94-a227-9d4ede45a134",
@@ -149,7 +154,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "authors"
+        "frontmatterKey": "authors",
+        "multiTagSortDir": "default"
       },
       {
         "id": "de5927cf-f9ea-4b06-8d39-c78cfb562235",
@@ -194,7 +200,8 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "tags"
+        "frontmatterKey": "tags",
+        "multiTagSortDir": "default"
       },
       {
         "id": "6ecbd388-adf4-4fee-b85d-884f97a897f5",
@@ -218,16 +225,17 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset",
-        "frontmatterKey": "url"
+        "frontmatterKey": "url",
+        "multiTagSortDir": "default"
       }
     ],
     "rows": [],
     "filters": [],
     "sources": [
       {
-        "id": "dbec99b9-97c2-42c2-935f-97d558432144",
+        "id": "920549e4-7d35-409f-be09-445162dd12c1",
         "type": "folder",
-        "path": "HELIOS-Vault/HELIOS-RL Applications/Applications",
+        "path": "Applications/Applications Directory",
         "includeSubfolders": true
       }
     ],
@@ -237,5 +245,5 @@
     },
     "externalRowOrder": []
   },
-  "pluginVersion": "8.15.12"
+  "pluginVersion": "8.16.1"
 }
