@@ -21,15 +21,15 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 
 
-## What is elsci?
+## What is elsciRL?
 
-**elsci (pronounced L-SEE)** is an abbreviation of our mission: 
+**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
 
 <div align="center">
- <b><i>"Everything can be automated using Language and Self-Completing Instructions".</i></b>
+ <b><i>"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning".</i></b>
 </div>
 
-To achieve this, **elsci** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
+To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
