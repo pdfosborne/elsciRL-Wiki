@@ -35,7 +35,7 @@ This has also been known as *AI agents* but we notably do not require the proble
 
 See the [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) for a first time user guide to applying the Python library. 
 
-<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-AI.png?raw=true" />
+<img src="https://github.com/pdfosborne/elsciRL-Wiki/raw/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
 
 ## What Makes the Wiki Open Source? 
 

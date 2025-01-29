@@ -1,66 +1,33 @@
 # Quick-start
 
-1. Install the Python library
+Install the Python library (see the [install guide](https://github.com/pdfosborne/elsciRL#install-guide) for more options)
 ```
 pip install elsciRL
 ```
-2. Run the demo experiment in a Python shell
+
+Run the App Interface with the following code in a Python script.  
 ```python
-from elsciRL import DemoExperiment
-exp = DemoExperiment()
-exp.run()
-exp.evaluate()
-``` 
-*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
-
-*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
-
-
-<p float="center">
-  <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/attachments/sailing_setup.png?raw=true" width="300" />
-  <img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/I%20-%20Introduction/attachments/sailboat_render_animation.gif" width="375" /> 
-</p>
-
-
-*The 'evaluate' function will return a combined chart for the experiments you just ran!*
-
-![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
-
-
-# Detailed Guide for First Time Users
-
-## Installing the elsciRL Package
-To get started using elsciRL, it is first suggested to setup a new Python environment. This can be completed easily with [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#) with a recent or newest Python version. 
-
-If you dont have Anaconda already, we suggest installing Miniconda.
-
-![Conda\_quick\_install](<./attachments/elsciRL_conda_install_short.gif>)
-
-### 1. Open the terminal (or Command Prompt) and run the following
-
-```
-conda create -n elsciRL_env python=3.11
-```
-	
-![Conda\_env\_setup](<./attachments/elsciRL_conda_env_short.gif>)
-
-
-
-*You can change the name from elsciRL_env to anything you'd like and update the Python version if needed.*
-
-### 2. Once installed, activate the newly created environment
-
-```
-conda activate elsciRL_env
-```
-	
-### 3. Then, simply install the package through the PyPi interface
-
-```
-pip install elsciRL
+from elsciRL import App
+App.run()
 ```
 
-*This will install the required libraries alongside the core elsciRL package.*
+This will give you a localhost link to open the App in a browser. This enables you to select a problem, change parameters and then input instructions to guide the agent before training. 
+
+Once you've finished a test you can see the results will show on the App and also save the full output in your local file directory.
+
+*Click the image to watch the demo video*
+[![YouTube](http://i.ytimg.com/vi/JbPtl7Sk49Y/hqdefault.jpg)](https://www.youtube.com/watch?v=JbPtl7Sk49Y)
+
+# Guide for New Developers
+
+If you wish to apply the elsciRL library to your own problems or design your own algorithms you will need to understand how to train agents without the App interface. 
+
+To edit the core elsciRL library you will need to install it as an editable package, we suggest doing this in a [Python environment](https://github.com/pdfosborne/elsciRL#using-a-python-environment)).
+```
+git clone https://github.com/pdfosborne/elsciRL.git
+cd elsciRL
+pip install -e .
+```
 
 ## Test the installation 
 
@@ -96,8 +63,7 @@ This will complete a training and testing phase for a small set of example probl
 
 Once complete, files will be saved in a timestamped directory for each problem that was run.
 
-![demo\_gif](<./Documentation/I - Introduction/attachments/elsciRL_demo_short.gif>)
-
+![demo\_gif](<./attachments/elsciRL_demo_short.gif>)
 
 #### Custom parameters: User Input
 
@@ -108,8 +74,6 @@ First, you can call the input function that allows you to select which problems 
 ```python
 exp.input()
 ```
-
-
 
 #### Custom parameters: Manually Defined
 
