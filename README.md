@@ -37,24 +37,23 @@ See the [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.
 
 <img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-AI.png?raw=true" />
 
-## Quick-start
+## What Makes the Wiki Open Source? 
 
-1. Install the Python library
-```
-pip install elsciRL
-```
-2. Run the demo experiment in a Python shell
-```python
-from elsciRL import DemoExperiment
-exp = DemoExperiment()
-exp.run()
-exp.evaluate()
-``` 
-*This will run a Reinforcement Learning experiment on two simple problems (OpenAI Gym's FrozenLake and a Sailing Simulation)*.* 
+The primary aim of elsciRL is to accelerate research in the Language and Reinforcement Learning domain. In many cases research can be fragmented by short-term paper submissions. Therefore, we believe it to be a fundamental requirement to improve how we collectively share knowledge as a global network of researchers. 
 
-*It will also produce animations showing the how well the best agent is currently trying to solve the problem.*
+Therefore, we encourage academics who are new to the domain to freely use the knowledge contained in this Wiki for their projects by making it accessible to all. In turn, we ask that once projects are completed and publicly available the research notes used to complete new developments is contributed to the community. 
 
-See [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) for more information on applying to Python library.
+**Specifically, the Wiki provides:**
+1. Beginner guides for new users
+2. Information to academics new to the space on how they can contribute
+3. A centralized set of applications that can be searched and filtered
+4. Complete documentation for using the elsciRL software
+5. Literature studies on a range of topics
+6. References with summaries and ready to copy citations
+7. A list of notable people to follow and their contributions to the domain
+
+Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
+
 
 ## Download the Wiki
 
