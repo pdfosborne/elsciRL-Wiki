@@ -21,10 +21,6 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 <br>
 <br>
 </div>
-<div align="left">
-
-<a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/sponsors/pdfosborne?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA&labelColor=%23FFFFFF&color=%23EA4AAA)</a>
-</div>
 
 **Quicklinks:** [FAQs](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/FAQs.md) | [Getting Started](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/1%20-%20Getting%20Started.md) | [Contributing Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Become%20a%20Contributor.md) | [App Interface Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/App%20Interface%20Guide.md)
 
