@@ -21,8 +21,6 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 <br>
 </div>
 
-
-
 ## What is elsciRL?
 
 **elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
