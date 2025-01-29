@@ -1,5 +1,13 @@
-# The Homepage of elsciRL <iframe src="https://github.com/sponsors/pdfosborne/button" title="Sponsor pdfosborne" height="32" width="114" style="border: 0; border-radius: 6px;" align="right"></iframe>
-**Improve Reinforcement Learning with Language AI** 
+# The Homepage of elsciRL 
+
+**Improve Reinforcement Learning with Language AI** <div align="right">
+
+<a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/sponsors/pdfosborne?style=flat-square&logo=githubsponsors&logoColor=%23EA4AAA&labelColor=%23FFFFFF&color=%23EA4AAA)</a>  
+</div>
+
+
+
+
 <div class="card-grid">  
 	<div class="price">
 		  <p><a href="https://elsci.org/App+Interface+Guide" class="button-63">USE THE APP</a></p>
