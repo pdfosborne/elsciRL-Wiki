@@ -16,6 +16,7 @@ This will give you a localhost link to open the App in a browser. This enables y
 Once you've finished a test you can see the results will show on the App and also save the full output in your local file directory.
 
 *Click the image to watch the demo video*
+
 [![YouTube](http://i.ytimg.com/vi/JbPtl7Sk49Y/hqdefault.jpg)](https://www.youtube.com/watch?v=JbPtl7Sk49Y)
 
 # Guide for New Developers
