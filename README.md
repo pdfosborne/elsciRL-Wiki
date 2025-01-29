@@ -39,9 +39,15 @@ See the [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.
 
 ## What Makes the Wiki Open Source? 
 
-The primary aim of elsciRL is to accelerate research in the Language and Reinforcement Learning domain. In many cases research can be fragmented by short-term paper submissions. Therefore, we believe it to be a fundamental requirement to improve how we collectively share knowledge as a global network of researchers. 
+The primary aim of elsciRL is to accelerate research in the Language and Reinforcement Learning domain. 
 
-Therefore, we encourage academics who are new to the domain to freely use the knowledge contained in this Wiki for their projects by making it accessible to all. In turn, we ask that once projects are completed and publicly available the research notes used to complete new developments is contributed to the community. 
+In many cases research can be fragmented by short-term paper submissions. 
+
+Therefore, we believe it to be a fundamental requirement to improve how we collectively share knowledge as a global network of researchers. 
+
+We encourage academics who are new to the domain to freely use the knowledge contained in this Wiki for their projects by making it accessible to all. 
+
+In turn, we ask that once projects are completed and publicly available the research notes used to complete new developments is contributed to the community. 
 
 **Specifically, the Wiki provides:**
 1. Beginner guides for new users
