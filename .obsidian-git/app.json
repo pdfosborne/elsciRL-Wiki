@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "livePreview": false,
