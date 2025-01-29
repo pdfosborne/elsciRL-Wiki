@@ -1,5 +1,5 @@
 # The Homepage of elsciRL
-**Language AI + Reinforcement Learning**
+**Improve Reinforcement Learning with Language AI**
 <div class="card-grid">  
 	<div class="price">
 		  <p><a href="https://elsci.org/App+Interface+Guide" class="button-63">USE THE APP</a></p>
