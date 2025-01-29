@@ -19,7 +19,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <div align="left">
 
-<a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/sponsors/pdfosborne?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA&labelColor=%23FFFFFF&color=%23EA4AAA)</a>  
+  <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/sponsors/pdfosborne?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA&labelColor=%23FFFFFF&color=%23EA4AAA)</a>  
 </div>
 
 
