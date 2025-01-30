@@ -25,7 +25,7 @@ The application allows the agent to control a sailboat by turning left or right 
 Distance moved after every action is calculated based on the direction the boat is facing against the wind. 
 
 ## Data Source
-The data is adapted from a Sailing Simulation by https://github.com/PPierzc/ai-learns-to-sail. ^a7fb61
+The data is adapted from a Sailing Simulation by https://github.com/PPierzc/ai-learns-to-sail.
 
 The sailboat distance is calculated based on the direction against the wind. The reward for reaching the objective is +1 and conversely -1 for failing.   
 
