@@ -159,7 +159,3 @@ python elsciRL_Demo.py
 - You will need to have Python installed, ideally alongside Anaconda for defining the environment.
 - You will need to have Git installed if you wish to clone the demo application, otherwise you can manually download an application from its GitHub repository.
 - If you are interested in using the GPU instead of CPU to train agents, then you will need to setup [CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/) on your machine.
-
----
-
-**Previous:** [FAQs](<../../FAQs.md>)     <div style="text-align: right"> **Next:** [2 - Basic Applications](<./2 - Basic Applications.md>) </div>

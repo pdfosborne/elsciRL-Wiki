@@ -1,9 +1,3 @@
-Table of Contents
-
-- [Comparison between Agents](<#comparison-between-agents>)
-- [Evaluating a Single Agent](<#evaluating-a-single-agent>)
-
----
 # Understanding Results
 
 When the agent is run, it will automatically save the results in the output folder as shown in the following image.

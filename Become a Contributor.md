@@ -34,6 +34,8 @@ If you wish to download the documentation for personal use: ^58a83d
 
 *You can open the vault in any software that can read markdown files but it is suggested you use Obsidian.md as we use some features and plugins to improve the experience.*
 
+*The links on the main pages such as 'Homepage' or 'New Developers redirect to the website to improve usability. Any pages inside the folders are connected locally and will link locally within obsidian.*
+
 
 ### Obsidian Configuration
 

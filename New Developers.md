@@ -49,13 +49,7 @@ pip install -e .
 
 Once the elsciRL package is installed, you can run a quick experiment on a small set of pre-configured problems. 
 
-In the command line, enter the following command to enter the Python mode:
-
-```bash
-python
-```
-
-You can now write and run Python code line by line. First, we need to import the example experiment from elsciRL:
+First, we need to import the example experiment from elsciRL:
 
 ```python
 from elsciRL import DemoExperiment
