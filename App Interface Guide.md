@@ -5,11 +5,17 @@
 
 </div>
 
-**Quicklinks:** [FAQs](<./FAQs.md>) | [New Developers](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Contributing Guide](<./Become a Contributor.md>)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers)  | [Contributing Guide](https://elsci.org/Become+a+Contributor)
 
 ## Quick-Start
 
-You will need to install the elsciRL python package to get started - use the [elsciRL install guide](https://github.com/pdfosborne/elsciRL?tab=readme-ov-file#install-guide) if you are a first time user.
+Install the Python library from the PyPi package library:
+
+```bash
+pip install elsciRL
+```
+
+*See the [elsciRL install guide](https://github.com/pdfosborne/elsciRL?tab=readme-ov-file#install-guide) for more install options.*
 
 Once the required packages are installed, run the following code in a Python script.
 
@@ -20,7 +26,7 @@ App.run()
 
 This will give you a localhost link to open in a browser. 
 
-The App will looks similar to the [public demo](https://osbornep.pythonanywhere.com/) except now the algorithm will directly compare your instruction against known environment positions to find the best match. Furthermore, if validated as a correct match, will use your computer resources to train the agent with this factored in.
+The App will looks similar to the [public demo](https://osbornep.pythonanywhere.com/) except now the algorithm will directly compare your instruction against known environment positions to find the best match. Furthermore, if validated as a correct match it will use your computer resources to train the agent with this factored in.
 
 By default the instruction agent will be run for 1,000 episodes to save time but you can increase or decrease this if you wish to change the training time.
 
@@ -34,7 +40,7 @@ Once you've finished a test you can see the results will show on the App and als
 
 ## Configuration
 
-The interface allows you to select the application you wish to apply agents to. You can learn how to add your own application or methods by following the [getting started guide](<./Documentation/I - Introduction/1 - Getting Started.md>).
+The interface allows you to select the application you wish to apply agents to. You can learn how to add your own application or methods by following the [New Developers Guide](https://elsci.org/New+Developers).
 
 For now, you can simply select one of the applications already set up such as the sailing simulation. 
 
@@ -84,6 +90,6 @@ Similarly, the agent without instructions can reach the end goal but less often 
 ![](<./Documentation/0 - Prerequisites/attachments/demo_output_example_2.png>)
 
 
-
---- 
-────────────────────────────────────────|**Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) </div>
+<div id="sticky-button">
+  <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>
+</div>

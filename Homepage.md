@@ -4,10 +4,10 @@
 
 <div class="card-grid">  
 	<div class="price">
-		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">APP SETUP</a></p>
+		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">FIRST TIME INSTALL</a></p>
 	</div>
 	<div class="price" align="center">
-		  <p><a target="_self" href="https://elsci.org/Documentation/I+-+Introduction/1+-+Getting+Started" class="button-63" >NEW DEVELOPERS</a></p>
+		  <p><a target="_self" href="https://elsci.org/New+Developers" class="button-63" >NEW DEVELOPERS</a></p>
 	</div>
 	<div class="price">
 		  <p><a target="_self" href="https://elsci.org/Applications/Applications+Overview" class="button-63">APPLICATIONS</a></p>
@@ -52,7 +52,7 @@ This has also been known as *AI agents* but we notably do not require the proble
 
 ----
 
-**Quicklinks:**  [About Us](<./About Us>) | [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Guide](<./App Interface Guide.md>)
+**Quicklinks:**  [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
 
 
 

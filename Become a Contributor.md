@@ -6,11 +6,11 @@
 
 </div>
 
-**Quicklinks:** [FAQs](<./FAQs.md>) | [New Developers](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [App Interface Guide](<./App Interface Guide.md>)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers)  | [App Interface Guide](https://elsci.org/App+Interface+Guide)
 
 
 ## Getting Started with the Software
-If you are ready to begin applying the elsciRL Python library: [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
+If you are ready to begin applying the elsciRL Python library: [Getting Started](https://elsci.org/New+Developers)
 
 ## Benchmarking Suite
 
@@ -18,7 +18,7 @@ elsciRL can be used as a benchmarking suite for systematically evaluating new me
 
 ## Custom Development
 
-You can develop your own agents, analysis and experiment protocols to compare against known methods. To get started with a custom development setup, see [Dev Setup](<./elsciRL Core/VI - Custom Development/1 - Dev Setup.md>).
+You can develop your own agents, analysis and experiment protocols to compare against known methods. To get started with a custom development setup, see [New Developer Guide](https://elsci.org/New+Developers).
 
 
 ## Use the Open-Source Documentation for Personal Use
@@ -53,3 +53,6 @@ If you wish to contribute to the project:
 5. Push the new branch to your forked repository
 6. Open a new *Pull Request* at the vault repository for committing your changes.
 
+<div id="sticky-button">
+  <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>
+</div>

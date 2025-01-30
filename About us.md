@@ -22,6 +22,10 @@ Guest lecturer at The University of Manchester and The University of Oxford. Win
 - *[Applying Reinforcement Learning on Real-World Data with Practical Examples in Python](https://link.springer.com/book/10.1007/978-3-031-79167-3)*, 1st Author, Springer Nature, 2022.
 - *[Switching Contexts: Transportability Measures for NLP](https://aclanthology.org/2021.iwcs-1.1/).* In Proceedings of the 14th International Conference on Computational Semantics (IWCS), Association for Computational Linguistics, 2020.
 
+---
+
+**Quicklinks:**  [Homepage](https://elsci.org) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+
 
 <div id="sticky-button">
   <a href="https://discord.gg/GgaqcrYCxt"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/discord_icon.png" width="50"></a>

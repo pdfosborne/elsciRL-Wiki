@@ -18,7 +18,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
-<b>Quicklinks:</b> [FAQs](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/FAQs.md) | [New Developers](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/1%20-%20Getting%20Started.md) | [Contributing Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Become%20a%20Contributor.md) | [App Interface Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/App%20Interface%20Guide.md)
+<b>Quicklinks:</b> [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
 <br>
 </div>
 
@@ -34,7 +34,7 @@ To achieve this, **elsciRL** offers a novel framework and infrastructure for acc
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
-See the [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) for a first time user guide to applying the Python library. 
+See the [New Developers Guide](https://elsci.org/New+Developers) to setup the Python library to apply to your own problems and methods. 
 
 <div align="center">
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/raw/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
@@ -77,7 +77,7 @@ If you wish to download the documentation for personal use:
 4. Open the Obsidian software
 5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
-See [New Contributors Guide](<./Become a Contributor.md>) for more information on contributing to the open-source development of this project.
+See [New Contributors Guide](https://elsci.org/Become+a+Contributor) for more information on contributing to the open-source development of this project.
 
 ### Obsidian Configuration
 
@@ -103,5 +103,3 @@ Please use the following to cite this work
   school       = {Department of Computer Science},  
   type         = {PhD thesis}
 ```
-
-**First Time Users:** [FAQs](<./FAQs.md>) |───────────────--──| **Next Steps:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)
