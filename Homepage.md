@@ -4,10 +4,10 @@
 
 <div class="card-grid">  
 	<div class="price">
-		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">USE THE APP</a></p>
+		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">APP SETUP</a></p>
 	</div>
 	<div class="price" align="center">
-		  <p><a target="_self" href="https://elsci.org/Documentation/I+-+Introduction/1+-+Getting+Started" class="button-63" >NEW DEVS</a></p>
+		  <p><a target="_self" href="https://elsci.org/Documentation/I+-+Introduction/1+-+Getting+Started" class="button-63" >NEW DEVELOPERS</a></p>
 	</div>
 	<div class="price">
 		  <p><a target="_self" href="https://elsci.org/Applications/Applications+Overview" class="button-63">APPLICATIONS</a></p>

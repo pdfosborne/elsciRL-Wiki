@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [App Interface Guide](<./App Interface Guide.md>)
+**Quicklinks:** [FAQs](<./FAQs.md>) | [New Developers](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [App Interface Guide](<./App Interface Guide.md>)
 
 
 ## Getting Started with the Software

@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
+**Quicklinks:** [New Developers](<./Documentation/I - Introduction/1 - Getting Started.md>) | [Contributing Guide](<./Become a Contributor.md>) | [Intro to Language RL](<./Documentation/III - Language RL/1 - Introduction to Language RL.md>)
 
 # What does elsciRL provide?
 

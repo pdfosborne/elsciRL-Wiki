@@ -6,8 +6,9 @@
 <div align="center">
 
 <br>
-<b>Open source Python software and Wiki for Academia and Commercial Applications</b>
-Visit our <a href="https://elsci.org">website</a> to get started, explore our <a href="https://github.com/pdfosborne/elsciRL-Wiki">Wiki</a> to learn more or join our <a href="https://discord.gg/GgaqcrYCxt">Discord server</a> to connect with the community.
+<b>Open-source Python Software for Academia and Industry Applications</b>
+
+Visit our <a href="https://elsci.org">website</a> to get started, explore our <a href="https://github.com/pdfosborne/elsciRL-Wiki">open source Wiki</a> to learn more or join our <a href="https://discord.gg/GgaqcrYCxt">Discord server</a> to connect with the community.
 <br>
 <i>In pre-alpha development.</i>
 <p> </p>
@@ -17,7 +18,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
-<b>Quicklinks:</b> [FAQs](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/FAQs.md) | [Getting Started](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/1%20-%20Getting%20Started.md) | [Contributing Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Become%20a%20Contributor.md) | [App Interface Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/App%20Interface%20Guide.md)
+<b>Quicklinks:</b> [FAQs](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/FAQs.md) | [New Developers](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Documentation/I%20-%20Introduction/1%20-%20Getting%20Started.md) | [Contributing Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Become%20a%20Contributor.md) | [App Interface Guide](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/App%20Interface%20Guide.md)
 <br>
 </div>
 
@@ -52,13 +53,14 @@ We encourage academics who are new to the domain to freely use the knowledge con
 In turn, we ask that once projects are completed and publicly available the research notes used to complete new developments is contributed to the community. 
 
 **Specifically, the Wiki provides:**
-1. Beginner guides for new users
-2. Information to academics new to the space on how they can contribute
-3. A centralized set of applications that can be searched and filtered
-4. Complete documentation for using the elsciRL software
-5. Literature studies on a range of topics
-6. References with summaries and ready to copy citations
-7. A list of notable researchers to follow and their contributions to the domain
+
+	1. Beginner guides for new users
+	2. Information to academics new to the space on how they can contribute
+	3. A centralized set of applications that can be searched and filtered
+	4. Complete documentation for using the elsciRL software
+	5. Literature studies on a range of topics
+	6. References with summaries and ready to copy citations
+	7. A list of notable researchers to follow and their contributions to the domain
 
 Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
 

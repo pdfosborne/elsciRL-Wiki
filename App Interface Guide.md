@@ -5,7 +5,7 @@
 
 </div>
 
-**Quicklinks:** [FAQs](<./FAQs.md>) | [Getting Started](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Contributing Guide](<./Become a Contributor.md>)
+**Quicklinks:** [FAQs](<./FAQs.md>) | [New Developers](<./Documentation/I - Introduction/1 - Getting Started.md>)  | [Contributing Guide](<./Become a Contributor.md>)
 
 ## Quick-Start
 
