@@ -29,9 +29,9 @@ The data is adapted from a Sailing Simulation by https://github.com/PPierzc/ai-l
 
 The sailboat distance is calculated based on the direction against the wind. The reward for reaching the objective is +1 and conversely -1 for failing.   
 
-# elsciRL App  Options
+## elsciRL App  Options
 
-## Local Config
+### Local Config
 
 The following table summarises the adapters available in the current application.
 
@@ -42,7 +42,7 @@ The following table summarises the adapters available in the current application
 |              |              |                                                                                                                                                                                                      |
 
 
-## Adapters
+### Adapters
 
 The following table summarises the adapters available in the current application.
 
@@ -53,7 +53,7 @@ The following table summarises the adapters available in the current application
 | Simple Language |   language   | States "x_angle" are transformed to a description based on: 1) horizontal position, 2) side of river (beach or harbor side), 3) angle against the wind and 4) direction of previous action taken. |  $tensor$   |
 
 
-# Citation
+## Citation
 
 ```bibtex
   title        = {Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language},  
