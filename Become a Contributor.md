@@ -1,11 +1,5 @@
 # How to Contribute
 
-**Open-source Contributors are essential to the success of elsciRL.**
-
-You can provide improvements to the software, add your own models or applications or even provide knowledge to the WIki.
-
-In return you gain experience with open-source software and will be recognized in the community as a notable supporter with a unique Discord role.
-
 <div align="center">
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
@@ -13,6 +7,12 @@ In return you gain experience with open-source software and will be recognized i
 </div>
 
 **Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers)  | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+
+**Open-source Contributors are essential to the success of elsciRL.**
+
+You can provide improvements to the software, add your own models or applications or even provide knowledge to the WIki.
+
+In return you gain experience with open-source software and will be recognized in the community as a notable supporter with a unique Discord role.
 
 
 ## Getting Started with the Software
