@@ -7,7 +7,6 @@
   "showLineNumber": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
-  "showRibbon": false,
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "./",
   "pdfExportSettings": {
