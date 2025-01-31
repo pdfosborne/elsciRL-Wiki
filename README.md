@@ -20,6 +20,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About Us>) | [FAQs](<./FAQs>) | [New Developers](<./New Developers>) | [Contributing Guide](<./Become a Contributor>) | [App Interface Guide](<./App Interface Guide>)
 <br>
+<br>
 </div>
 
 ## What is elsciRL?
