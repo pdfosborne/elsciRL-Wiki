@@ -1,7 +1,7 @@
 # elsciRL-Wiki
 ## Improve Reinforcement Learning with Language AI
 
-<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_stag_transparent_cropped_fix.png" align="left" height="250" width="225" ></a>
+<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_simple_cropped.png" align="left" height="250" width="187.5" ></a>
 
 <div align="center">
 
@@ -19,6 +19,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
 <b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About Us>) | [FAQs](<./FAQs>) | [New Developers](<./New Developers>) | [Contributing Guide](<./Become a Contributor>) | [App Interface Guide](<./App Interface Guide>)
+<br>
 <br>
 </div>
 
