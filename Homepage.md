@@ -4,18 +4,6 @@
 	<p><b>Language Guidance for <br> Reinforcement Learning</b></p>	
 </div>
 
-<div align="center" style="font-size:125%;font-family:'Ubuntu', monospace">
-	<p>Accelerate Research. <br> Improve Reproducibility. <br> Enable New Applications.</p>
-</div>
-
-<div align="center">
-	<a href="https://osbornep.pythonanywhere.com/" class="button-63">Try the Online Demo</a>
-	<p></p>
-	<iframe width="400" height="300"  
-		src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
-	</iframe>
-</div>
-
 ----
 
 <div class="card-grid" align = "center">  
@@ -36,24 +24,56 @@
 </div>
 <div align="right">
 
-----
-<div align="center" style="font-size:150%">
-	<p><b>What is elsciRL?</b></p>	
-</div>
-
-**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
-
 <div align="center">
- <p style="font-size:125%;color:#c800ff"><b><i>"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning".</i></b></p>
+	<iframe width="400" height="300"  
+		src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
+	</iframe>
+	<p></p>
+	<a href="https://osbornep.pythonanywhere.com/" class="button-63">Try the Online Demo</a>
 </div>
 
-To achieve this, **elsciRL** offers a general purpose framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
+----
 
-This has also been known as *AI agents* but we notably do not require the problem to already contain language.
+<div align="center" style="font-size:150%">
+	<p><b>A Best of Both Worlds Solution</b></p>	
+</div>
+
 
 <div align="center">
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
 </div>
+
+----
+
+<div align="center" style="font-size:150%">
+	<p><b>Why use elsciRL</b></p>	
+</div>
+
+<div align="center">
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
+</div>
+
+**elsciRL** offers a general purpose framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
+
+This has also been known as *AI agents* but we notably do not require the problem to already contain language.
+
+The framework has three core aims:
+
+<div align="center" style="font-size:100%">
+	<p><b>1. Accelerate Research <br> 2. Improve Reproducibility <br> 3. Enable New Applications</b></p>	
+</div>
+
+----
+
+<div align="center" style="font-size:150%">
+	<p><b>What is Reinforcement Learning?</b></p>	
+</div>
+
+Reinforcement Learning is an Artificial Intelligence methodology that teaches machines how to make decisions and perform actions to achieve a goal. 
+
+It's based on the idea that machines can learn from their experiences to automate a task without being told exactly what to do, similar to how humans learn through trial and error.
+
+See the [FAQs](https://elsci.org/FAQs) for more information.
 
 ----
 
