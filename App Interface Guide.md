@@ -5,7 +5,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers)  | [Contributing Guide](https://elsci.org/Become+a+Contributor)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [Contributing Guide](https://elsci.org/Become+a+Contributor)
 
 ## Quick-Start
 
@@ -40,7 +40,7 @@ Once you've finished a test you can see the results will show on the App and als
 
 ## Configuration
 
-The interface allows you to select the application you wish to apply agents to. You can learn how to add your own application or methods by following the [New Developers Guide](https://elsci.org/New+Developers).
+The interface allows you to select the application you wish to apply agents to. You can learn how to add your own application or methods by following the [New Developers Guide](https://elsci.org/Developer+Guide).
 
 For now, you can simply select one of the applications already set up such as the sailing simulation. 
 

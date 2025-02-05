@@ -24,7 +24,7 @@ Guest lecturer at The University of Manchester and The University of Oxford. Win
 
 ---
 
-**Quicklinks:**  [Homepage](https://elsci.org) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+**Quicklinks:**  [Homepage](https://elsci.org) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
 
 
 <div id="sticky-button">

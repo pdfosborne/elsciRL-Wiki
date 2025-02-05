@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/New+Developers)  | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [App Interface Guide](https://elsci.org/App+Interface+Guide)
 
 **Open-source Contributors are essential to the success of elsciRL.**
 
@@ -16,7 +16,7 @@ In return you gain experience with open-source software and will be recognized i
 
 
 ## Getting Started with the Software
-If you are ready to begin applying the elsciRL Python library: [Getting Started](https://elsci.org/New+Developers)
+If you are ready to begin applying the elsciRL Python library: [Getting Started](https://elsci.org/Developer+Guide)
 
 ## Benchmarking Suite
 
@@ -24,7 +24,7 @@ elsciRL can be used as a benchmarking suite for systematically evaluating new me
 
 ## Custom Development
 
-You can develop your own agents, analysis and experiment protocols to compare against known methods. To get started with a custom development setup, see [New Developer Guide](https://elsci.org/New+Developers).
+You can develop your own agents, analysis and experiment protocols to compare against known methods. To get started with a custom development setup, see [New Developer Guide](https://elsci.org/Developer+Guide).
 
 
 ## Use the Open-Source Documentation for Personal Use
