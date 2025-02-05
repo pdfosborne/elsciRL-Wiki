@@ -4,7 +4,20 @@
 	<p><b>Language Guidance for <br> Reinforcement Learning</b></p>	
 </div>
 
+<div align="center" style="font-size:150%">
+	<p><b>A Best of Both Worlds Solution</b></p>	
+</div>
+
+
+<div align="center">
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
+</div>
+
 ----
+
+<div align="center" style="font-size:150%">
+	<p><b>Getting Started</b></p>	
+</div>
 
 <div class="card-grid" align = "center">  
 	<div class="price" >
@@ -32,16 +45,6 @@
 	<a href="https://osbornep.pythonanywhere.com/" class="button-63">Try the Online Demo</a>
 </div>
 
-----
-
-<div align="center" style="font-size:150%">
-	<p><b>A Best of Both Worlds Solution</b></p>	
-</div>
-
-
-<div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
-</div>
 
 ----
 
@@ -57,10 +60,38 @@
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
-The framework has three core aims:
+<div align="center" style="font-size:125%">
+	<p><b>Aims of this Work</b></p>	
+</div>
 
-<div align="center" style="font-size:100%">
-	<p><b>1. Accelerate Research <br> 2. Improve Reproducibility <br> 3. Enable New Applications</b></p>	
+<div class="card-grid-3" align = "center">  
+	<div class="card">
+	  <div class="card-details" align = "center" >
+	    <p class="text-title">Accelerate Research</p>
+	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	  </div>
+	  <a href="https://elsci.org/Publications/README"><button class="card-button">Publications</button></a>
+	</div>
+	<div class="card">
+	  <div class="card-details" align = "center">
+	    <p class="text-title">Improve Reproducibility</p>
+	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	  </div>
+	  <a href="https://elsci.org/Publications/README"><button class="card-button">Benchmarking</button></a>
+	</div>
+	<div class="card">
+	  <div class="card-details" align = "center">
+	    <p class="text-title">Enable New Applications</p>
+	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	  </div>
+	  <a href="https://elsci.org/Applications/Applications+Overview"><button class="card-button">Applications</button></a>
+	</div>
+</div>
+
+
+
+<div align="center">
+
 </div>
 
 ----
