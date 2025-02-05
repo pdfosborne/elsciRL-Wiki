@@ -215,18 +215,24 @@ a.button-63:hover {
 }
 
 /*Slide based sections*/
-.card-grid {display: grid;
+.card-grid {
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: auto;
     grid-gap: 4px;
     row-gap: auto;
-}
+	display: flex;
+    align-items: center;
+    justify-content: center;}
 
-.card-grid-3 {display: grid;
-    grid-template-columns: repeat(3, 1fr);
+.card-grid-3 {
+    grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: auto;
     grid-gap: 4px;
     row-gap: auto;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	max-width: 300;
 }
     
 .nft{
@@ -368,7 +374,7 @@ ins{
    
 .card-details {
     color: black;
-    height: 90%;
+    height: 95%;
     gap: .5em;
     display: grid;
     place-content: center;

@@ -61,32 +61,46 @@
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
 <div align="center" style="font-size:125%">
-	<p><b>Aims of this Work</b></p>	
+	<p><b>Core Aims</b></p>	
 </div>
 
 <div class="card-grid-3" align = "center">  
-	<div class="card">
+	<div class="card" align = "center">
 	  <div class="card-details" align = "center" >
 	    <p class="text-title">Accelerate Research</p>
-	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_reader.png" align="left" height="125" width="125" ></a>
 	  </div>
 	  <a href="https://elsci.org/Publications/README"><button class="card-button">Publications</button></a>
 	</div>
-	<div class="card">
+	<div class="card" align = "center">
 	  <div class="card-details" align = "center">
 	    <p class="text-title">Improve Reproducibility</p>
-	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_researcher.png" align="left" height="125" width="125" ></a>
 	  </div>
 	  <a href="https://elsci.org/Publications/README"><button class="card-button">Benchmarking</button></a>
 	</div>
-	<div class="card">
+</div>
+
+<p></p>
+
+<div class="card-grid-3" align = "center">  
+	  
+	<div class="card" align = "center">
+	  <div class="card-details" align = "center">
+	    <p class="text-title">Transfer Knowledge</p>
+	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_doctor.png" align="left" height="125" width="125" ></a>
+	  </div>
+	  <a href="https://elsci.org/Publications/README"><button class="card-button">Applications</button></a>
+	</div>
+	<div class="card" align = "center">
 	  <div class="card-details" align = "center">
 	    <p class="text-title">Enable New Applications</p>
-	    <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="125" width="125" ></a>
+	    <a href="https://elsci.org/Applications/Applications+Overview"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_techy.png" align="left" height="125" width="125" ></a>
 	  </div>
 	  <a href="https://elsci.org/Applications/Applications+Overview"><button class="card-button">Applications</button></a>
 	</div>
 </div>
+
 
 
 
