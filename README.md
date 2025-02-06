@@ -36,7 +36,6 @@ This has also been known as *AI agents* but we notably do not require the proble
 4. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required testing
 
 <div width="75%" align="center">
-
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
 </div>
 
