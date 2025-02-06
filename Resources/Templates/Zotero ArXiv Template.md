@@ -11,7 +11,7 @@ DOI: {{archiveID}}
 type: {{itemType}}
 ---
 
-
+# {{title}}
 
 ## Abstract 
 {{abstractNote}}

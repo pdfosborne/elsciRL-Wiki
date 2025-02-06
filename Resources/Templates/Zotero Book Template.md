@@ -11,6 +11,8 @@ ISBN: {{ISBN}}
 type: {{itemType}}
 ---
 
+# {{title}}
+
 ## Abstract 
 {{abstractNote}}
 

@@ -1,15 +1,26 @@
 ---
-cite: {{citekey}} 
-title: {{title}}
-year: {{date | format ("YYYY")}}
-tags: [{{allTags}}]
-authors: {{authors}}
-citations: {{extra}}
-publisher: {{publicationTitle}}
-url: {{url}}
-DOI: {{DOI}}
-type: {{itemType}}
+cite:
+  "{ citekey }": 
+title:
+  "{ title }": 
+year:
+  "{ date | format (\"YYYY\") }": 
+tags: 
+authors:
+  "{ authors }": 
+citations:
+  "{ extra }": 
+publisher:
+  "{ publicationTitle }": 
+url:
+  "{ url }": 
+DOI:
+  "{ DOI }": 
+type:
+  "{ itemType }":
 ---
+
+# {{title}}
 
 ## Abstract 
 {{abstractNote}}

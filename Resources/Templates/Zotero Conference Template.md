@@ -11,6 +11,8 @@ DOI: {{DOI}}
 type: {{itemType}}
 ---
 
+# {{title}}
+
 ## Abstract 
 {{abstractNote}}
 
