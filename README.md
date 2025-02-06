@@ -90,7 +90,7 @@ We also use a set of custom css snippets that you can enable in settings > appea
 
 ## LaTeX Export
 
-All notes are designed to be exported directly to LaTeX. This means that the references may not work in Obsidian but provides a smoother experience for academic publications.
+All notes in the **Studies** directory are designed to be exported directly to LaTeX. This means that the references may not work in Obsidian but provides a smoother experience for academic publications.
 
 We use the [Latex-Exporter](https://github.com/mscott99/latex-exporter?tab=readme-ov-file) plugin.
 
