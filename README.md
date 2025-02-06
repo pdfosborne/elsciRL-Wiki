@@ -88,6 +88,22 @@ We also use a set of custom css snippets that you can enable in settings > appea
 
 ![osbsidian\_settings](https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/0%20-%20Prerequisites/attachments/Obsidian%20settings.png)
 
+## LaTeX Export
+
+All notes are designed to be exported directly to LaTeX. This means that the references may not work in Obsidian but provides a smoother experience for academic publications.
+
+We use the [Latex-Exporter](https://github.com/mscott99/latex-exporter?tab=readme-ov-file) plugin.
+
+When writing your own notes, you can do the following:
+- Citations are wikilinks starting with the '@' character 
+	- Reference in text using @...
+	- The ... is replaced by the cite key in the Biblography
+	- Add references to [[Biblio]]
+- Equations are labelled with the quarto syntax 
+	- Specify by $$...$${#eq-...}
+	- Referenced with `@eq-my_label`
+
+
 --- 
 
 Please use the following to cite this work
