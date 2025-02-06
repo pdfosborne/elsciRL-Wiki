@@ -5,6 +5,8 @@ _Personal/*
 Clippings
 Clippings/*
 
+LatexExports/*
+
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/themes
@@ -24,3 +26,4 @@ Clippings/*
 .obsidian-git/plugins/zotlit
 .obsidian-git/plugins/mousewheel-image-zoom
 .obsidian-git/plugins/copilot
+
