@@ -1,5 +1,5 @@
 # elsciRL-Wiki
-## Improve Reinforcement Learning with Language AI
+## Language Guidance for Reinforcement Learning
 
 <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="250" width="250" ></a>
 
@@ -25,20 +25,19 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 ## What is elsciRL?
 
-**elsciRL (pronounced L-SEE)** is an abbreviation of our mission: 
-
-<div align="center">
- <b><i>"Everything can be automated using Language and Self-Completing Instructions in Reinforcement Learning".</i></b>
-</div>
-
-To achieve this, **elsciRL** offers a novel framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
+**elsciRL** offers a general purpose framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
-See the [New Developers Guide](https://elsci.org/Developer+Guide) to setup the Python library to apply to your own problems and methods. 
+### Features
+1. **Accelerates Research** by seperating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge
+2. **Improve Reproducability** by designing generally applicable alogorithms & applications including configurations to re-create prior experiments
+3. **Extract Domain Expert Knowledge** by using our App Interface to let non-technical users provide instructions
+4. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required testing
 
-<div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/raw/main/Resources/images/elsciRL-key-benefits-alt3-transparent.png?raw=true" />
+<div width="75%" align="center">
+
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
 </div>
 
 ## What Makes the Wiki Open Source? 
@@ -55,13 +54,13 @@ In turn, we ask that once projects are completed and publicly available the rese
 
 **Specifically, the Wiki provides:**
 
-	1. Beginner guides for new users
-	2. Information to academics new to the space on how they can contribute
-	3. A centralized set of applications that can be searched and filtered
-	4. Complete documentation for using the elsciRL software
-	5. Literature studies on a range of topics
-	6. References with summaries and ready to copy citations
-	7. A list of notable researchers to follow and their contributions to the domain
+1. Beginner guides for new users
+2. Information to academics new to the space on how they can contribute
+3. A centralized set of applications that can be searched and filtered
+4. Complete documentation for using the elsciRL software
+5. Literature studies on a range of topics
+6. References with summaries and ready to copy citations
+7. A list of notable researchers to follow and their contributions to the domain
 
 Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
 
@@ -72,19 +71,19 @@ The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed
 
 If you wish to download the documentation for personal use:
 
-1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
-2. Unzip the Vault to a local directory (e.g. inside Documents)
-3. [Download Obsidian.md](https://obsidian.md/download)
-4. Open the Obsidian software
-5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
+8. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+9. Unzip the Vault to a local directory (e.g. inside Documents)
+10. [Download Obsidian.md](https://obsidian.md/download)
+11. Open the Obsidian software
+12. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
 See [New Contributors Guide](https://elsci.org/Become+a+Contributor) for more information on contributing to the open-source development of this project.
 
 ### Obsidian Configuration
 
 By default, not all formatting will work without the correct plugins but they can be setup by:
-1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
-2. Lastly, restart obsidian
+13. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
+14. Lastly, restart obsidian
 
 We also use a set of custom css snippets that you can enable in settings > appearance > CSS snippets at the bottom.
 
