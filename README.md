@@ -94,7 +94,7 @@ We use the [Latex-Exporter](https://github.com/mscott99/latex-exporter?tab=readm
 
 You can simply open Obsidian's command pallete (ctrl+p) on any note and run the `Latex Exporter: Export Current Note`. 
 
-This will produce a folder in the top level of the vault containing the `.tex` file and the Bibliography for you to copy.
+This will produce a folder in the **LatexExports** directory of the vault containing the `.tex` file and the Bibliography for you to copy.
 
 All notes in the **Publications** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
 
