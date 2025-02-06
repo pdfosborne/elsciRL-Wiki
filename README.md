@@ -18,7 +18,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
-<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About Us>) | [FAQs](<./FAQs>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor>) | [App Interface Guide](<./App Interface Guide>)
+<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About us.md>) | [FAQs](<./FAQs.md>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>)
 <br>
 <br>
 </div>
@@ -94,14 +94,25 @@ All notes are designed to be exported directly to LaTeX. This means that the ref
 
 We use the [Latex-Exporter](https://github.com/mscott99/latex-exporter?tab=readme-ov-file) plugin.
 
+You can simply open Obsidian's command pallete (ctrl+p) on any note and run the `Latex Exporter: Export Current Note`. 
+
+This will produce a file in the top level of the vault containing the `.tex` file for you to copy.
+
 When writing your own notes, you can do the following:
-- Citations are wikilinks starting with the '@' character 
-	- Reference in text using @...
-	- The ... is replaced by the cite key in the Biblography
-	- Add references to [[Biblio]]
+- Citations are wikilinks
+	- Reference in text using `@...`
+	- The `...` is replaced by the cite key in the Biblography
+	- Add references to the [Bibliography](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/References/Bibliography/Bibliography.bib) file
 - Equations are labelled with the quarto syntax 
-	- Specify by $$...$${#eq-...}
+	- Specified by `$$...$${#eq-my_label}`
+	- Required format is `{#eq-...}`
 	- Referenced with `@eq-my_label`
+
+
+
+<div width="75%" align="center">
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/References/_images/Latex-Exporter-Example.png?raw=true" />
+</div>
 
 
 --- 
