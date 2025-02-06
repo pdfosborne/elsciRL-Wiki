@@ -108,9 +108,9 @@ When writing your own notes, you can do the following:
 	- Required format is `{#eq-...}`
 	- Referenced with `@eq-my_label`
 
+*The following image shows an example with a citation and equation reference.*
 
-
-<div width="75%" align="center">
+<div width="50%" align="center">
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/References/_images/Latex-Exporter-Example.png?raw=true" />
 </div>
 
