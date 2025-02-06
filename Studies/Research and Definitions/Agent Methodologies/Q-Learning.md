@@ -1,14 +1,18 @@
 # Definition
 
-An agent must incorporate the long-term outcomes of actions into the calculations. A well known method for achieving this is Q-learning and defined by \cite{Sutton:1998} whereby calculations are updated based on the transitions from the current state-action pair to the next state. A summary of agent architectures applied to a range of Reinforcement Learning problems is shown in figures \ref{fig:agent_types_flat} and \ref{fig:agent_types_language}.
+An agent must incorporate the long-term outcomes of actions into the calculations. A well known method for achieving this is Q-learning and defined by {[[References/Books/suttonReinforcementLearningIntroduction2018|suttonReinforcementLearningIntroduction2018]]} whereby calculations are updated based on the transitions from the current state-action pair to the next state.
 
-Formally, the value of state-action pairs, $Q(s,a)$, are updated using the following calculation in equation \ref{Q_learn_update_rule} after reaching every non-terminal state. If the next state is a terminal state, then this is fixed to $Q(s^\prime,a^\prime)=0$ and often a large reward is provided depending on the outcome. Over time, the numeric results of the long-term outcome propagates backwards to the earliest states in an episode such that the agent can make immediate actions that are not going to cause long-term issues. 
+Formally, the value of state-action pairs, $Q(s,a)$, are updated using the following calculation in equation {[[#^156197|Q_learn_update_rule]]} after reaching every non-terminal state. If the next state is a terminal state, then this is fixed to $Q(s^\prime,a^\prime)=0$ and often a large reward is provided depending on the outcome. Over time, the numeric results of the long-term outcome propagates backwards to the earliest states in an episode such that the agent can make immediate actions that are not going to cause long-term issues. 
 
-**Q-Learning Update Rule:**
+### Q-Learning Update Rule:
+
+
 $$
+	%\label{Q-learn-update-rule}
 	Q^{new}(s,a)\leftarrow Q(s,a) + \alpha {\bigg (} r + \gamma \max_{a'}Q(s',a') - Q(s,a) {\bigg )}
 $$
- 
+^156197
+
 where:
 - $Q(s,a)$ is the value of state-action pair $s$,
 - $\alpha$ is the learning rate parameter,
