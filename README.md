@@ -90,13 +90,27 @@ We also use a set of custom css snippets that you can enable in settings > appea
 
 ## LaTeX Export
 
-All notes in the **Studies** directory are designed to be exported directly to LaTeX. This means that the references may not work in Obsidian but provides a smoother experience for academic publications.
-
 We use the [Latex-Exporter](https://github.com/mscott99/latex-exporter?tab=readme-ov-file) plugin.
 
 You can simply open Obsidian's command pallete (ctrl+p) on any note and run the `Latex Exporter: Export Current Note`. 
 
-This will produce a file in the top level of the vault containing the `.tex` file for you to copy.
+This will produce a folder in the top level of the vault containing the `.tex` file and the Bibliography for you to copy.
+
+All notes in the **Publications** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
+
+### Copying Notes from Studies
+
+If you copy blocks from the **Studies** you will need to update references (labelled with {[[]]}) by removing the Obsidian link and replace with the Latex Exporter tag. e.g. 
+
+```{[[suttonReinforcementLearningIntroduction2018|sutton2018]]}```
+
+into 
+
+```@suttonReinforcementLearningIntroduction2018```
+
+References to other notes (labelled with [[]]) will simply need to be removed and then you can add text from linked notes manually.
+
+### Adding New References
 
 When writing your own notes, you can do the following:
 - Citations are wikilinks
