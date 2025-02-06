@@ -1,11 +1,9 @@
-# The Homepage of elsciRL 
-
-<div align="center" style="font-size:250%">
+<div align="center" style="font-size:200%">
 	<p><b>Language Guidance for <br> Reinforcement Learning</b></p>	
 </div>
 
-<div align="center" style="font-size:150%">
-	<p><b>A Best of Both Worlds Solution</b></p>	
+<div align="center" style="font-size:100%">
+	<p><i>A Best of Both Worlds Solution</i></p>	
 </div>
 
 
@@ -61,20 +59,20 @@
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
 <div align="center" style="font-size:125%">
-	<p><b>Core Aims</b></p>	
+	<p><b>Features</b></p>	
 </div>
 
 <div class="card-grid-3" align = "center">  
 	<div class="card" align = "center">
 	  <div class="card-details" align = "center" >
-	    <p class="text-title">Accelerate Research</p>
-	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_reader.png" align="left" height="125" width="125" ></a>
+	    <p class="text-title">Accelerates Research</p>
+	    <a href="https://github.com/pdfosborne/elsciRL-Wiki"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_reader.png" align="left" height="125" width="125" ></a>
 	  </div>
-	  <a href="https://elsci.org/Publications/README"><button class="card-button">Publications</button></a>
+	  <a href="https://github.com/pdfosborne/elsciRL-Wiki"><button class="card-button">Wiki  & Docs</button></a>
 	</div>
 	<div class="card" align = "center">
 	  <div class="card-details" align = "center">
-	    <p class="text-title">Improve Reproducibility</p>
+	    <p class="text-title">Improves Reproducibility</p>
 	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_researcher.png" align="left" height="125" width="125" ></a>
 	  </div>
 	  <a href="https://elsci.org/Publications/README"><button class="card-button">Benchmarking</button></a>
@@ -87,14 +85,14 @@ This has also been known as *AI agents* but we notably do not require the proble
 	  
 	<div class="card" align = "center">
 	  <div class="card-details" align = "center">
-	    <p class="text-title">Transfer Knowledge</p>
-	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_doctor.png" align="left" height="125" width="125" ></a>
+	    <p class="text-title">User Input Interface</p>
+	    <a href="https://elsci.org/App+Interface+Guide"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_doctor.png" align="left" height="125" width="125" ></a>
 	  </div>
-	  <a href="https://elsci.org/Publications/README"><button class="card-button">Applications</button></a>
+	  <a href="https://elsci.org/App+Interface+Guide"><button class="card-button">App Interface</button></a>
 	</div>
 	<div class="card" align = "center">
 	  <div class="card-details" align = "center">
-	    <p class="text-title">Enable New Applications</p>
+	    <p class="text-title">Enhances New Applications</p>
 	    <a href="https://elsci.org/Applications/Applications+Overview"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_techy.png" align="left" height="125" width="125" ></a>
 	  </div>
 	  <a href="https://elsci.org/Applications/Applications+Overview"><button class="card-button">Applications</button></a>
