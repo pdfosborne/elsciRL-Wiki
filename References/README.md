@@ -1,7 +1,15 @@
+# References
+
 Central resource for references used in this work.
 
+## Adding Citations
 
-### Reference Database Loom
+We use the Zotero Intergration plugin and a set of templates. 
+
+Once setup, you can simply import a citation from your Zotero database and it will format the reference to be used in other notes. 
+
+
+## Reference Database Loom
 
 The reference database is generated using the [DataLoom](https://dataloom.xyz/) obsidian plugin plugin.
 

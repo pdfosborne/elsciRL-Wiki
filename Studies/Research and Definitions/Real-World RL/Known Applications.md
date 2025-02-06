@@ -35,10 +35,3 @@ A recent article in the Harvard Business Review also provides a summary of notab
 \label{tab:commercial_applications}
 \end{table}
 
-
-# Database Export
-
-| Source                                  | Source File                                         | Tags       |
-| --------------------------------------- | --------------------------------------------------- | ---------- |
-| Internal                                |                                                     |            |
-| elsciRL-Vault/References/Online Articles | elsciRL-Vault/References/Online Articles/Untitled.md | real-world |
