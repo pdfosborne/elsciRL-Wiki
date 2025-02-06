@@ -6,7 +6,7 @@
 <div align="center">
 
 <br>
-<b>Open-source Python Software for Academia and Industry Applications</b>
+<b>Open-source Python Software for Academic and Industry Applications</b>
 
 Visit our <a href="https://elsci.org">website</a> to get started, explore our <a href="https://github.com/pdfosborne/elsciRL-Wiki">open source Wiki</a> to learn more or join our <a href="https://discord.gg/GgaqcrYCxt">Discord server</a> to connect with the community.
 <br>
@@ -62,7 +62,6 @@ In turn, we ask that once projects are completed and publicly available the rese
 7. A list of notable researchers to follow and their contributions to the domain
 
 Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
-
 
 ## Download the Wiki
 
