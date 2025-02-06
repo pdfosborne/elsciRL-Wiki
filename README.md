@@ -18,7 +18,7 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
-<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About us.md>) | [FAQs](<./FAQs.md>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>)
+<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About us.md>) | [FAQs](<./FAQs.md>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>) | [Using the Wiki](<./Docs Overview.md>)
 <br>
 <br>
 </div>
@@ -39,6 +39,39 @@ This has also been known as *AI agents* but we notably do not require the proble
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
 </div>
 
+## How to Use the Wiki
+
+You can view [Documentation](<Documentation/Documentation Info.md>) for the software to understand how to use each module.
+
+The Wiki contains a complete set of notes in a hierarchy.
+
+```
+Topics & Publications
+ |--Studies
+	 |--Definitions
+		|--References
+```
+
+**1. Topics & Publications** combine studies into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
+
+**2. Studies** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
+
+**3. Definitions** provide specification of individual components needed to produce studies.
+
+**4. References** include the citation for any work used in the other notes as well as notes on individual resources.
+
+**In summary, the Wiki provides:**
+
+1. Beginner guides for new users
+2. Information to academics new to the space on how they can contribute
+3. A centralized set of applications that can be searched and filtered
+4. Complete documentation for using the elsciRL software
+5. Literature studies on a range of topics
+6. References with summaries and ready to copy citations
+7. A list of notable researchers to follow and their contributions to the domain
+
+Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
+
 ## What Makes the Wiki Open Source? 
 
 The primary aim of elsciRL is to accelerate research in the Language and Reinforcement Learning domain. 
@@ -50,18 +83,6 @@ Therefore, we believe it to be a fundamental requirement to improve how we colle
 We encourage academics who are new to the domain to freely use the knowledge contained in this Wiki for their projects by making it accessible to all. 
 
 In turn, we ask that once projects are completed and publicly available the research notes used to complete new developments is contributed to the community. 
-
-**Specifically, the Wiki provides:**
-
-1. Beginner guides for new users
-2. Information to academics new to the space on how they can contribute
-3. A centralized set of applications that can be searched and filtered
-4. Complete documentation for using the elsciRL software
-5. Literature studies on a range of topics
-6. References with summaries and ready to copy citations
-7. A list of notable researchers to follow and their contributions to the domain
-
-Lastly, the [documentation website](https://elsci.org/) is a direct display of the notes contained in this repository so as to streamline the contribution to the community.
 
 ## Download the Wiki
 
@@ -95,38 +116,9 @@ You can simply open Obsidian's command pallete (ctrl+p) on any note and run the 
 
 This will produce a folder in the **LatexExports** directory of the vault containing the `.tex` file and the Bibliography for you to copy.
 
-All notes in the **Publications** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
+All notes in the **Definitions** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
 
-### Copying Notes from Studies
-
-If you copy blocks from the **Studies** you will need to update references (labelled with {[[]]}) by removing the Obsidian link and replace with the Latex Exporter tag. e.g. 
-
-```{[[suttonReinforcementLearningIntroduction2018|sutton2018]]}```
-
-into 
-
-```@suttonReinforcementLearningIntroduction2018```
-
-References to other notes (labelled with [[]]) will simply need to be removed and then you can add text from linked notes manually.
-
-### Adding New References
-
-When writing your own notes, you can do the following:
-- Citations are wikilinks
-	- Reference in text using `@...`
-	- The `...` is replaced by the cite key in the Biblography
-	- Add references to the [Bibliography](https://github.com/pdfosborne/elsciRL-Wiki/blob/main/References/Bibliography/Bibliography.bib) file
-- Equations are labelled with the quarto syntax 
-	- Specified by `$$...$${#eq-my_label}`
-	- Required format is `{#eq-...}`
-	- Referenced with `@eq-my_label`
-
-*The following image shows an example with a citation and equation reference.*
-
-<div width="50%" align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/References/_images/Latex-Exporter-Example.png?raw=true" />
-</div>
-
+See [Using the Wiki](<./Docs Overview.md>) for more information.
 
 --- 
 

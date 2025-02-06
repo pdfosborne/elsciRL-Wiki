@@ -1,3 +1,12 @@
+---
+author: Philip Osborne
+published: 2025-01-28
+last edited: 2025-02-05
+tags:
+  - RL-Agents
+  - Foundation
+---
+
 # Introduction
 
 In order to make good decisions the agent must include a mechanism for choosing actions. This entails two components: 1) storage of knowledge (i.e. within a table or neural network weights) and, 2) sampling an optimal action.

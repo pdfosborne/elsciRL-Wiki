@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+Overview)
 
 **Open-source Contributors are essential to the success of elsciRL.**
 

@@ -117,7 +117,7 @@ See the [FAQs](https://elsci.org/FAQs) for more information.
 
 ----
 
-**Quicklinks:**  [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide)
+**Quicklinks:**  [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+Overview)
 
 
 

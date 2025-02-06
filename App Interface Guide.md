@@ -5,7 +5,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [Contributing Guide](https://elsci.org/Become+a+Contributor)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [Using the Wiki](https://elsci.org/Docs+Overview)
 
 ## Quick-Start
 
