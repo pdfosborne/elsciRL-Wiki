@@ -1,0 +1,18 @@
+# Agents used in Text Games
+
+
+Table \ref{tab:Models} provides an overview of recent architectural trends for comparison. We find that the initial papers in 2015 used the standard approaches of LSTM or Bag of Words for the encoder and a Deep Q-Network (DQN) for the action selector. More recent developments have been experimenting with both parts to return improved results. Notably, a range of approaches for the encoding that have been introduced with Gated Recurrent Units (GRUs) since 2020 are most commonly used. Whereas, there have been fewer variations in the choice of action selector where either Actor-Critic (A2C) or a DQN is typically used. Furthermore, the use of Knowledge Graphs and Pre-trained Transformers has been limited and many of the works that use these were published recently.% The pre-trained transformers used so far are ALBERT, GPT-2 and BERT.
+
+Most of the agents were applied to either TextWorld/Cookingworld or Jericho. We typically find that alternative environments align to consistent setups; either the authors create a new game that mimics simple real-world rules (similar to TextWorld) or they apply their methods to well know pre-existing games (similar to Jericho). Specifically, \cite{Narasimhan:2015} \textcolor{blue}{generated a set of two player} games themselves: `Home World' to mimic the environment of a typical house and `Fantasy World' that is more challenging and akin to a role-playing game. Alternatively, \cite{He:2015} used a deterministic text game `Saving John' and a larger-scale stochastic text game `Machine of Death', both pre-existing from a public library.
+
+
+TODO ADD TABLE IMAGE
+
+\textbf{Encoders} used include both simplistic state encodings in the form of Bag of Words (BoW), but also recurrent modules like: Gated Recurrent Unit (GRU) \cite{Cho:2014}, Long Short-Term Memory (LSTM) \cite{Hochreiter:1997}, Transformer (TF) \cite{Vaswani:2017}, Relational Graph Convolutional Network (R-GCN) \cite{Schlichtkrull:2018}. Recently, Advantage Actor Critic (A2C) \cite{Mnih:2016} has gained popularity for the action selection method, with variants of the Deep Q-Network \cite{Mnih:2013}, such as the Deep Reinforcement Relevance Network  (DRRN) \cite{He:2015}, Double DQN (DDQN) \cite{Hasselt:2016}, Deep Siamese Q-Network (DSQN) \cite{Yin:2020snn}.
+
+
+
+\textbf{Task Specific Pre-Training} entails heuristically establishing a setting in which a sub-module learns priors before interacting with training data. For example, \cite{Adolphs:2020} pre-train on a collection of food items to improve generalisability to unseen objects and \cite{Adhikari:2020} pre-train a Knowledge Graph constructor on trajectories of similar games on which the agent is trained. The work in \cite{Chaudhury:2020} showed that training an agent on pruned observation space, where the semantically least relevant tokens are removed in each episode to improves generalisability to unseen domains whilst also improving the sample efficiency due to requiring less training games. Furthermore, \cite{Jain:2020} proposed learning different action-value functions for all possible scores in a game, thus effectively learning separate value functions for each sub-task of a whole.
+
+
+Lastly, the \textbf{action-space} typically varies between template or choice based depending on the type of task. Only two papers have considered a parser based approach: \cite{Narasimhan:2015} and \cite{Madotto:2020}. 

@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+Overview)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+&+Wiki+Guide)
 
 
 ## Quick-start
@@ -71,7 +71,7 @@ This will complete a training and testing phase for a small set of example probl
 
 Once complete, files will be saved in a timestamped directory for each problem that was run.
 
-![demo\_gif](<./Documentation/I - Introduction/attachments/elsciRL_demo_short.gif>)
+![demo\_gif](<./Documentation/I - Introduction/_images/elsciRL_demo_short.gif>)
 
 #### Custom parameters: User Input
 
@@ -128,7 +128,7 @@ exp.evaluate()
 
 This will return a combined analysis for both training and testing of all problems the were run. 
 
-![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/attachments/variance_comparison_TRAINING.png>)
+![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/_images/variance_comparison_TRAINING.png>)
 
 Understanding these results are explained in more detail in [3 - Output Format](<./Documentation/I - Introduction/3 - Output Format.md>) but for now, the simple rule is more reward is better. 
 

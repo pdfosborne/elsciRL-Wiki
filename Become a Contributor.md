@@ -6,7 +6,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+Overview)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [App Interface Guide](https://elsci.org/App+Interface+Guide) | [Using the Wiki](https://elsci.org/Docs+&+Wiki+Guide)
 
 **Open-source Contributors are essential to the success of elsciRL.**
 
@@ -49,7 +49,7 @@ By default, not all formatting will work without the correct plugins but they ca
 1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
 2. Lastly, restart obsidian
 
-![Obsidian settings](<./Documentation/0 - Prerequisites/attachments/Obsidian settings.png>)
+![Obsidian settings](<./Documentation/0 - Prerequisites/_images/Obsidian settings.png>)
 
 ## Contributing to the Documentation
 

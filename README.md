@@ -18,14 +18,16 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 <a href="https://github.com/pdfosborne/elsciRL">![elsciRL GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL?style=for-the-badge&logo=github&label=elsciRL&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL)</a> <a href="https://github.com/pdfosborne/elsciRL-Wiki">![Wiki GitHub](https://img.shields.io/github/stars/pdfosborne/elsciRL-Wiki?style=for-the-badge&logo=github&label=elsciRL-Wiki&link=https%3A%2F%2Fgithub.com%2Fpdfosborne%2FelsciRL-Wiki)</a> <a href="https://discord.gg/GgaqcrYCxt">![Discord](https://img.shields.io/discord/1310579689315893248?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1184202186469683200%2F1184202186998173878)</a>
 
-<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About us.md>) | [FAQs](<./FAQs.md>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>) | [Using the Wiki](<./Docs Overview.md>)
+<b>Quicklinks:</b> [Website](https://elsci.org) | [About Us](<./About us.md>) | [FAQs](<./FAQs.md>) | [Developer Guide](<./Developer Guide.md>) | [Contributing Guide](<./Become a Contributor.md>) | [App Interface Guide](<./App Interface Guide.md>) | [Using the Wiki](<./Docs & Wiki Guide.md>)
 <br>
 <br>
 </div>
 
 ## What is elsciRL?
 
-**elsciRL** offers a general purpose framework and infrastructure for accelerating the development of language based Reinforcement Learning (RL) solutions.
+**elsciRL (pronounced L-SEE)** offers a general purpose Python library for accelerating the development of language based Reinforcement Learning (RL) solutions.
+
+Our novel solution is a patent pending framework that allows end users to give instructions to Reinforcement Learning agents without direct supervision. In other words, prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached). 
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
@@ -46,17 +48,17 @@ You can view [Documentation](<Documentation/Documentation Info.md>) for the soft
 The Wiki contains a complete set of notes in a hierarchy.
 
 ```
-Topics & Publications
+Articles & Publications
  |--Studies
 	 |--Definitions
-		|--References
+		|--Foundations
 ```
 
-**1. Topics & Publications** combine studies into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
+**1. Articles & Publications** combine studies into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
 
 **2. Studies** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
 
-**3. Definitions** provide specification of individual components needed to produce studies.
+**3. Foundations** provide specification of individual components needed to produce studies.
 
 **4. References** include the citation for any work used in the other notes as well as notes on individual resources.
 
@@ -118,7 +120,7 @@ This will produce a folder in the **LatexExports** directory of the vault contai
 
 All notes in the **Definitions** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
 
-See [Using the Wiki](<./Docs Overview.md>) for more information.
+See [Using the Wiki](<./Docs & Wiki Guide.md>) for more information.
 
 --- 
 

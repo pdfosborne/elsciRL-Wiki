@@ -5,6 +5,8 @@
     "tags": "tags",
     "complexity": "text",
     "published": "date",
-    "last edited": "date"
+    "last edited": "date",
+    "author": "multitext",
+    "authors": "text"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "maxNotesToShow": 100,
+  "showMarkdownFiles": true,
+  "showImageFiles": false,
+  "showPDFFiles": false,
+  "showAudioFiles": false,
+  "showVideoFiles": false,
+  "showCanvasFiles": false,
+  "showCSVFiles": false,
+  "excludedFolders": [
+    "Wiki/References",
+    "Wiki/_Clippings",
+    "Wiki/_LatexExports"
+  ],
+  "excludedFiles": [],
+  "previewLines": 1,
+  "pinnedNotes": []
+}

@@ -6,7 +6,7 @@ The structure of these will depend on the experiment. Within the experiment, eac
 
 Testing procedures take the trained output agent and fix the policy before re-applying it for a limited number of episodes when it can no longer learn. In other words, it provides evaluation on what the agent thinks is best at this time. 
 
-![Output Folder](<./attachments/Output Folder.png>)
+![Output Folder](<./_images/Output Folder.png>)
 
 ## Comparison between Agents
 
@@ -17,7 +17,7 @@ In the following example image:
 - Three formats of reward per episode
 - A distribution of time taken per episode
 
-![Training Variance Comparison](<./attachments/Training Variance Comparison.png>)
+![Training Variance Comparison](<./_images/Training Variance Comparison.png>)
 
 ## Evaluating a Single Agent
 

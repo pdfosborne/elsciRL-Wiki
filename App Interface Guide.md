@@ -5,7 +5,7 @@
 
 </div>
 
-**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [Using the Wiki](https://elsci.org/Docs+Overview)
+**Quicklinks:** [Homepage](https://elsci.org) | [About Us](https://elsci.org/About+us) | [FAQs](https://elsci.org/FAQs) | [New Developers](https://elsci.org/Developer+Guide)  | [Contributing Guide](https://elsci.org/Become+a+Contributor) | [Using the Wiki](https://elsci.org/Docs+&+Wiki+Guide)
 
 ## Quick-Start
 
@@ -77,7 +77,7 @@ The final and the last shows the average reward obtained per episode with standa
 ***'Go to the beach side'***
 In this first example, the instruction guides the agent's training noticeably to the beach side. However, none of the training attempts managed to go from that guidance to the goal line and therefore in the final chart performs considerably worse than the agent without instructions.
 
-![](<./Documentation/0 - Prerequisites/attachments/demo_output_example_1.png>)
+![](<./Documentation/0 - Prerequisites/_images/demo_output_example_1.png>)
 
 ### Example 2
 ***'Go to the beach side' --> 'Turn back from the beach so the wind is on the starboard side of the boat'***

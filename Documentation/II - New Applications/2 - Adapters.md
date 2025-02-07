@@ -23,7 +23,7 @@ If we chose instead to use the 8x8 Gym generation we would need to update line 1
 
 In theory, a tabular agent does not need to use an encoder at all and could instead simply store the natural format of the state. However, this can be computationally expensive if they are strings (text) and is good practice to use an encoder to enable neural methods to also be used.
 
-![Adapter Example](<./attachments/Adapter Example.png>)
+![Adapter Example](<./_images/Adapter Example.png>)
 
 ---
 
@@ -35,7 +35,7 @@ Adapters are problem specific and is why they are included in the application te
 
 In this same Frozen Lake example, we have another environment setup for an 8x8 grid and therefore we duplicate the default adapter with a single change in line 19. We also give the file a relevant name.
 
-![Editing the Encoder](<./attachments/Editing the Encoder.png>)
+![Editing the Encoder](<./_images/Editing the Encoder.png>)
 
 Then this new adapter must be included as an input option in the experiment before it will be usable in the configuration.
 
@@ -43,9 +43,9 @@ TODO - SHOW IMAGE OF ADAPTERS DICT FOR INPUT
 
 We can then call the *Default_8x8* adapter and run the experiment again. Without any other changes it performs just as bad as it did on the 4x4 grid which is not surprising with so few episodes.
 
-![FrozenLake\_8x8 Run](<./attachments/FrozenLake_8x8 Run.png>)
+![FrozenLake\_8x8 Run](<./_images/FrozenLake_8x8 Run.png>)
 
-![FrozenLake\_8x8 Results](<./attachments/FrozenLake_8x8 Results.png>)
+![FrozenLake\_8x8 Results](<./_images/FrozenLake_8x8 Results.png>)
 
 ## Transforming States
 
@@ -57,11 +57,11 @@ In this case we have defined a simple lookup to map any of the 16 possible state
 
 The encoder that is set by the template is a sentence transformer and is suitable for now.
 
-![Language Adapter](<./attachments/Language Adapter.png>)
+![Language Adapter](<./_images/Language Adapter.png>)
 
 We then simply change the engine generation back to the 4x4 Gym problem and update the configs to now train a tabular agent on both the default numeric form and the new language one.
 
-![Language Adapter Config](<./attachments/Language Adapter Config.png>)
+![Language Adapter Config](<./_images/Language Adapter Config.png>)
 
 The output of this experiment will combine the results for both adapters into a single summary figure.
 

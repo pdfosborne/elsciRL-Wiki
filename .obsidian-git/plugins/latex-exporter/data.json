@@ -1,7 +1,7 @@
 {
   "mySetting": "default",
   "template_path": "",
-  "base_output_folder": "LatexExports",
+  "base_output_folder": "Wiki/_LatexExports",
   "preamble_file": "preamble.sty",
   "bib_file": "References/Bibliography/Bibliography.bib",
   "prioritize_lists": false,

@@ -28,9 +28,9 @@ This will create a new repository in your personal account which you can then cl
 
 The advantage of using a fork of the template is that updates to the template can be incorporated into your application.
 
-![elsciRL Template](<./attachments/elsciRL Template.png>)
+![elsciRL Template](<./_images/elsciRL Template.png>)
 
-![elsciRL Template Fork](<./attachments/elsciRL Template Fork.png>)
+![elsciRL Template Fork](<./_images/elsciRL Template Fork.png>)
 
 ## Option 2: Clone the Application Template Directly
 
@@ -78,7 +78,7 @@ The   legal_move_generator*(state)*  function returns the list of possible moves
 
 In some problems this may be fixed and consistent for all states (e.g. *[up, down, left, right]*), in others a lookup may be required given the current position.
 
-![elsciRL Template Engine](<./attachments/elsciRL Template Engine.png>)
+![elsciRL Template Engine](<./_images/elsciRL Template Engine.png>)
 
 ---
 
@@ -100,6 +100,6 @@ pip install gymnsium
 
 In this example, all we need to do is call the FrozenLake generation from Gym and specify the list of possible actions.
 
-![Creating a New Engine](<./attachments/Creating a New Engine.png>)
+![Creating a New Engine](<./_images/Creating a New Engine.png>)
 
 **Next we need to setup the encoder methodology through adapters outlined in the following page: [Adapters](<./2 - Adapters.md>).**

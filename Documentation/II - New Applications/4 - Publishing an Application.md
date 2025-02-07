@@ -21,9 +21,9 @@ Before we create a new repository to upload our application to GitHub, we must f
 ## 2. Create New Repository
 Simply create a blank repository with a suitable name, we don’t need any contents as they will be replaced by our first commit.
 
-![GitHub New Repository](<./attachments/GitHub New Repository.png>)
+![GitHub New Repository](<./_images/GitHub New Repository.png>)
 
-![GitHub New Repository Created](<./attachments/GitHub New Repository Created.png>)
+![GitHub New Repository Created](<./_images/GitHub New Repository Created.png>)
 
 ## 3. Download the elsciRL application template
 
@@ -62,7 +62,7 @@ git push
 
 If you make no changes to the template before pushing then this will return an error that the main branch is already up to date and means a commit is not required.
 
-![Git Initial Push](<./attachments/Git Initial Push.png>)
+![Git Initial Push](<./_images/Git Initial Push.png>)
 
 If you make any changes before trying to push a new screen will open in the terminal asking for the commit message, simply put “Initial setup commit” (or anything you prefer), CTRL-X to exit and save then ENTER to confirm this changes.
 

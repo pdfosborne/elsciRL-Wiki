@@ -35,7 +35,7 @@ The problem config is to define:
 - Flag to include supervised sug-goals (if defined by engine)
 - **Any additional problem specific control (not shown in example)**
 
-![Problem Config](<./attachments/Problem Config.png>)
+![Problem Config](<./_images/Problem Config.png>)
 
 ## Changing Parameters
 
@@ -43,7 +43,7 @@ Editing parameters is as simple as updating to values given within their require
 
 For now, agent parameters are limited to one input.
 
-![[./attachments/Changing Parameters.png]]
+![[./_images/Changing Parameters.png]]
 
 ### Agents and Adapters
 

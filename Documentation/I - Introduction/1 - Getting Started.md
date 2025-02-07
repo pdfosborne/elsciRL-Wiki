@@ -64,7 +64,7 @@ This will complete a training and testing phase for a small set of example probl
 
 Once complete, files will be saved in a timestamped directory for each problem that was run.
 
-![demo\_gif](<./attachments/elsciRL_demo_short.gif>)
+![demo\_gif](<./_images/elsciRL_demo_short.gif>)
 
 #### Custom parameters: User Input
 

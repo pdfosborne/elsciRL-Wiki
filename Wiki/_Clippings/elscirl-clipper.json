@@ -1,0 +1,81 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "elsciRL",
+	"behavior": "create",
+	"noteContentFormat": "# Summary\n\n{{\"a summary of the page with no special character\"}}\n\n----\n# Article\n\n{{\"full content from {{content}} cleaned up for better markdown reading\"}}\n",
+	"properties": [
+		{
+			"name": "cite",
+			"value": "{{\\\"generate a BibTex for the page with a short citekey and give just the citekey\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "url",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "authors",
+			"value": "{{\\\"get a list of authors from {selector:.author}} in the format: author1,author2,...\\\"}}",
+			"type": "multitext"
+		},
+		{
+			"name": "publisher",
+			"value": "{{\\\"get the name of the publisher, if not clearly stated then the base url name without .co or .com\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "site",
+			"value": "{{\\\"get the base url name without .co or .com\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "published",
+			"value": "{{\\\"get the publsihed date of the page in dd/mm/yyyy\\\"}}",
+			"type": "date"
+		},
+		{
+			"name": "year",
+			"value": "{{\\\"get the publsihed year of the page in yyyy\\\"}}",
+			"type": "number"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{\\\"generate a summary in less than 100 characters\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "{{\\\"generate a set of tags with no spaces for the page\\\"}}",
+			"type": "multitext"
+		},
+		{
+			"name": "type",
+			"value": "{{\\\"select the type of article from: 'WebArticle', 'ArXiv', 'Conference Paper', 'Journal Paper','Book' or 'Video'\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "BibTeX (AI Generated)",
+			"value": "{{\\\"generate a BibTeX reference for the page without special characters and a short citekey\\\"}}",
+			"type": "text"
+		},
+		{
+			"name": "citations",
+			"value": "{{\\\"get the number of citations\\\"}}",
+			"type": "number"
+		}
+	],
+	"triggers": [],
+	"noteNameFormat": "{{title}}",
+	"path": "Wiki/_Clippings"
+}

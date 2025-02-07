@@ -1,0 +1,551 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "abd005ca-0136-44e9-a9cb-14b5f0823e45",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "203px",
+        "type": "source",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "38f04bb0-3502-4ba9-a6cc-bc0abc065414",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "134px",
+        "type": "source-file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "bb792626-fb76-4694-9ab0-4bb07e4235af",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "165px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "CiteKey",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "cite",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "e99bab27-a6cd-4518-b9db-613339839b4e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "132px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Type",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "b575bb82-673c-4736-9f02-d4442129f23e",
+            "content": "Academic Journal",
+            "color": "orange"
+          },
+          {
+            "id": "2df144aa-c54e-4c8d-9169-55b51f768001",
+            "content": "Academic Conference",
+            "color": "green"
+          },
+          {
+            "id": "79dbfa1f-bc73-4798-a42f-0e12f37ebb65",
+            "content": "journalArticle",
+            "color": "yellow"
+          },
+          {
+            "id": "5188d554-69d9-4ff1-bacb-44c08ad58401",
+            "content": "preprint",
+            "color": "brown"
+          },
+          {
+            "id": "415eb425-0e0d-45a8-b3c1-fd21ad69f2b4",
+            "content": "Book",
+            "color": "green"
+          },
+          {
+            "id": "295dd1a0-0c4f-4c64-b4ba-9391fed6c2ca",
+            "content": "book",
+            "color": "brown"
+          },
+          {
+            "id": "3326cc88-2327-4533-a25e-fb2bd42c4f7f",
+            "content": "WebArticle",
+            "color": "yellow"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "type",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "9ec5a0fc-7263-430b-9740-9d012a92ca74",
+        "sortDir": "desc",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Citations",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "citations",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "6ac799a7-fc54-4f88-8b50-71c005f5a491",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "209px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Title",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "title",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "187fa330-c883-472d-b2bd-cf2fdfc3c106",
+        "sortDir": "desc",
+        "isVisible": true,
+        "width": "78px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Year",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "year",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "a447a7b2-550b-4180-b43f-9f238bfef0ca",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "304px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tags",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "9d92913a-c855-41df-a354-7e748da486e6",
+            "content": "EvaluationProtocol",
+            "color": "pink"
+          },
+          {
+            "id": "38579bbd-1759-4c08-bf23-33d9d7dff0ea",
+            "content": "RL",
+            "color": "gray"
+          },
+          {
+            "id": "8c41da0d-4ce6-4df3-805a-a97114044b21",
+            "content": "Survey",
+            "color": "brown"
+          },
+          {
+            "id": "5c2907a7-cad6-441d-9d95-aba993f43eba",
+            "content": "TextGames",
+            "color": "orange"
+          },
+          {
+            "id": "73b6d0b9-815e-41ed-b6d9-2b3dc00fd4b7",
+            "content": "AppliedReinforcementLearning",
+            "color": "blue"
+          },
+          {
+            "id": "abc96972-01a2-45f5-97c3-69414990c97d",
+            "content": "RealWorld",
+            "color": "light gray"
+          },
+          {
+            "id": "52428b45-55a9-44e9-b995-763ac7ec786a",
+            "content": "Artificial Intelligence",
+            "color": "red"
+          },
+          {
+            "id": "0b7f8a88-4913-408c-bb7f-aa8d3598ad68",
+            "content": "Computation and Language",
+            "color": "light gray"
+          },
+          {
+            "id": "429c1c22-7393-4470-b965-79e279c73cdc",
+            "content": "Machine Learning",
+            "color": "light gray"
+          },
+          {
+            "id": "0b96ccd5-f82d-4787-9232-1995596585da",
+            "content": "Language",
+            "color": "purple"
+          },
+          {
+            "id": "73250c18-66d9-4606-9fa8-ea11218a7319",
+            "content": "Artificial",
+            "color": "red"
+          },
+          {
+            "id": "0f75ad53-f776-458a-be6e-db6fc0b618f8",
+            "content": "Intelligence",
+            "color": "red"
+          },
+          {
+            "id": "f8352feb-6d7a-4dd3-8689-481e2da90f98",
+            "content": "Computation",
+            "color": "blue"
+          },
+          {
+            "id": "ad49b14d-ac9e-4bce-8f55-3bd2d22a61f2",
+            "content": "and",
+            "color": "gray"
+          },
+          {
+            "id": "b0654343-fe30-4ac5-90ba-65965281d861",
+            "content": "Machine",
+            "color": "green"
+          },
+          {
+            "id": "38ac58b0-0030-4252-b3cc-bc4c1a5bf2f3",
+            "content": "Learning",
+            "color": "blue"
+          },
+          {
+            "id": "64eceea0-464a-4c95-b3ae-86effe530454",
+            "content": "general",
+            "color": "blue"
+          },
+          {
+            "id": "08567a97-6cc1-437b-aff8-d1caad2eaa31",
+            "content": "Foundation",
+            "color": "light gray"
+          },
+          {
+            "id": "18d33edb-a576-48d6-86ad-ec9a30503c98",
+            "content": "obsidian",
+            "color": "green"
+          },
+          {
+            "id": "eb28842a-303f-4bf8-8bdf-f17224e13aca",
+            "content": "RW-RL",
+            "color": "purple"
+          },
+          {
+            "id": "41d6c19a-a7a0-4434-aaa1-01ef07f5dd3d",
+            "content": "RL-Research",
+            "color": "orange"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "tags",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "4706d022-1763-4f4f-9d2e-47039695a1cb",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "169px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Publisher",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "aa811fb9-fb5c-4182-a38b-1b0ede379933",
+            "content": "Transactions of the Association for Computational Linguistics",
+            "color": "red"
+          },
+          {
+            "id": "eda894ca-667e-4a6c-97e8-e33af9370b71",
+            "content": "Machine Learning",
+            "color": "yellow"
+          },
+          {
+            "id": "f1b4de52-71bd-46e4-a8e0-725163762506",
+            "content": "ArXiv",
+            "color": "purple"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "publisher",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "62f37741-152b-4992-9407-ccf91660bf2d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "165px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Authors",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "authors",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "a2048a05-9b4e-4f28-955a-912cdb3d8a79",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "URL",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "url",
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "b66b2f2a-f032-410d-8b4f-7575a9cd34c0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "2826a546-ab39-48e0-840f-de2566c7e73e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [],
+    "filters": [
+      {
+        "id": "3d2bb83f-46f4-4f96-a728-32eee2847e52",
+        "columnId": "6ac799a7-fc54-4f88-8b50-71c005f5a491",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "is-not-empty",
+        "text": ""
+      },
+      {
+        "id": "594955c5-9164-403c-a66e-ffc0afc98a4b",
+        "columnId": "6ac799a7-fc54-4f88-8b50-71c005f5a491",
+        "operator": "and",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "does-not-contain",
+        "text": "Template"
+      },
+      {
+        "id": "2152afce-88bd-44f2-bf1b-28be6f109bb2",
+        "columnId": "bb792626-fb76-4694-9ab0-4bb07e4235af",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "is-not-empty",
+        "text": ""
+      }
+    ],
+    "sources": [
+      {
+        "id": "5177833a-2bef-4877-854c-6d3a39e0dae0",
+        "type": "folder",
+        "path": "References/Academic Papers",
+        "includeSubfolders": true
+      },
+      {
+        "id": "d2328f3f-b380-446b-ae64-56d39fac7aa1",
+        "type": "folder",
+        "path": "References/Books",
+        "includeSubfolders": true
+      },
+      {
+        "id": "358fb72d-9745-4281-b4e9-f040da4b3514",
+        "type": "folder",
+        "path": "References/Articles",
+        "includeSubfolders": true
+      },
+      {
+        "id": "fc223855-d0bc-486e-883d-018553aece52",
+        "type": "folder",
+        "path": "Wiki/References",
+        "includeSubfolders": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 2,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}
