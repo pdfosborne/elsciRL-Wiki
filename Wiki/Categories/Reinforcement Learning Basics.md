@@ -1,4 +1,4 @@
-![[../Foundations/RL Basics/Reinforcement Learning#Definition]]
+![[../Foundations & Definitions/RL Basics/Reinforcement Learning#Definition]]
 
 ## Tabular vs Neural Agent Architectures
 

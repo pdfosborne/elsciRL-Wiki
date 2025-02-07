@@ -14,16 +14,16 @@ The Wiki contains a complete set of notes in a hierarchy.
 
 ```
 Articles & Publications
- |--Studies
-	 |--Foundations
+ |--Categories
+	 |--Foundations & Definitions
 		|--References
 ```
 
-**1. Articles & Publications** combine studies into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
+**1. Articles & Publications** combine *Categories* into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
 
-**2. Studies** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
+**2. Categories** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
 
-**3. Foundations** provide specification of individual components needed to produce studies.
+**3. Foundations & Definitions** provide specification of individual components needed to produce studies.
 
 **4. References** include the citation for any work used in the other notes as well as notes on individual resources.
 
@@ -41,11 +41,17 @@ You can simply open Obsidian's command pallete (ctrl+p) on any note and run the 
 
 This will produce a folder in the **LatexExports** directory of the vault containing the `.tex` file and the Bibliography for you to copy.
 
-All notes in the **Definitions** and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
+All notes in the **Foundations & Definitions** and **Categories** directory are designed to be exported directly to LaTeX. 
+
+This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
+
+Specifically, *references* are given in their export format with links to relevant pages in the footnote.
 
 #### Exporting Notes from Studies
 
-If you copy blocks from the **Studies** you will need to update references (labelled with {[[]]}) by removing the Obsidian link and replace with the Latex Exporter tag. e.g. 
+Embedded notes that use `![[Other note]]` will embed the content into the main note without creating a LaTeX environment, even if this embed wikilink specifies a header. As always in this plugin, embeds are recursive; it is fine to have many layers deep of embeds.
+
+If you copy blocks from the **Categories** you will need to update references (labelled with {[[]]}) by removing the Obsidian link and replace with the Latex Exporter tag. e.g. 
 
 ```{[[suttonReinforcementLearningIntroduction2018|sutton2018]]}```
 

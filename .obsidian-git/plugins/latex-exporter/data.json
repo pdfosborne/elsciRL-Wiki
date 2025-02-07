@@ -3,7 +3,7 @@
   "template_path": "",
   "base_output_folder": "Wiki/_LatexExports",
   "preamble_file": "preamble.sty",
-  "bib_file": "References/Bibliography/Bibliography.bib",
+  "bib_file": "Wiki/References/Library.bib",
   "prioritize_lists": false,
   "warn_before_overwrite": false,
   "default_citation_command": "cite"

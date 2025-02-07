@@ -1,0 +1,25 @@
+\documentclass{article}
+\input{header}
+\addbibresource{bibliography.bib}
+\title{}
+\author{Philip Osborne}
+\begin{document}
+\maketitle
+\section{Tabular vs Neural Agent Architectures}
+\label{loc:tabular_vs_neural_agent_architectures}
+Any reinforcement learning agent must include a method for language understanding. 
+
+An agent which stores every state-action value in a large lookup table is known as a \emph{tabular} agent and has the limitation that every state is considered unique. A tabular agent has no intrinsic methodology for leveraging the contextual information of language.  ^1c5f81
+
+Therefore, \emph{neural} (a.k.a deep) agents \cite[^1]{mnih2013PlayingAtariDeep} are introduced as they can transfer knowledge between similar states. 
+
+To achieve this, a Deep-RL agent`s architecture consists of two core components: 
+1) **a state encoder** an encoder for transforming a state into a numeric form (typically vector)
+2) **an action selection** method which enacts the agent's policy.
+
+---
+1: [[Wiki/References/Academic Papers/ArXiv/mnih2013PlayingAtariDeep|\cite{mnih2013PlayingAtariDeep}]
+
+[^1]: \hyperref[loc:wiki/references/academic_papers/arxiv/mnih2013playingatarideep.statement]{mnih2013PlayingAtariDeep}
+\printbibliography
+\end{document}

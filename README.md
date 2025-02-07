@@ -49,16 +49,16 @@ The Wiki contains a complete set of notes in a hierarchy.
 
 ```
 Articles & Publications
- |--Studies
-	 |--Definitions
-		|--Foundations
+ |--Categories
+	 |--Foundations & Definitions
+		|--References
 ```
 
-**1. Articles & Publications** combine studies into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
+**1. Articles & Publications** combine *Categories* into a more complete narrative structure that are ready to publish. These include: sections of academic papers, online articles or summary studies.
 
-**2. Studies** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
+**2. Categories** summarize subjects into digestible parts. These are designed to be objective descriptions of prior work and could be used as they are for sections in a literature review.
 
-**3. Foundations** provide specification of individual components needed to produce studies.
+**3. Foundations & Definitions** provide specification of individual components needed to produce studies.
 
 **4. References** include the citation for any work used in the other notes as well as notes on individual resources.
 

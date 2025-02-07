@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="font-size:100%">
-	<p><i>A Framework that enables Non-technical Experts to give Language Instructions to AI Agents</i></p>	
+	<p><i>A Patent Pending Framework that enables Non-technical Experts to give Language Instructions to AI Agents</i></p>	
 </div>
 
 <div class="card-grid" align = "center"> 
@@ -44,9 +44,8 @@
 </div>
 
 <div align="center" style="font-size:100%">
-	<p><i>Enhance your Applications with our User Interface</i></p>	
+	<p><i>Learn how to apply the Python Library</i></p>	
 </div>
-
 <div class="card-grid" align = "center">  
 	<div class="price" >
 		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">First Time Setup</a></p>
@@ -58,7 +57,7 @@
 
 
 <div align="center" style="font-size:100%">
-	<p><i>Accelarate your Research with our Wiki</i></p>	
+	<p><i>Accelarate your Research with our Open-Source Wiki</i></p>	
 </div>
 
 <div align="center">
