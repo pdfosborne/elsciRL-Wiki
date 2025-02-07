@@ -1,8 +1,8 @@
 /* Cyberpunk Folder Colors by Hierarchy (Corrected and Tested) */
 
 .nav-folder {
-  --level-1-color: #00FFFF; /* Cyan */
-  --level-2-color: #FF00FF; /* Magenta */
+  --level-1-color: #FFFFFF; /* Magenta */
+  --level-2-color: #FFA500; /* Cyan */
   --level-3-color: #FFFF00; /* Yellow */
   --level-4-color: #00FF00; /* Green */
   --level-5-color: #FF0000; /* Red */
