@@ -131,6 +131,11 @@ a.button {
     text-decoration: none;
 }
 
+/* Frontmatter display */
+.frontmatter {
+    display: block !important; 
+}
+
 /* CSS */
 a.button-63 {
   align-items: center;
