@@ -121,7 +121,7 @@ exp.evaluate()
 
 This will return a combined analysis for both training and testing of all problems the were run. 
 
-![variance\_comparison\_TRAINING](<./attachments/variance_comparison_TRAINING.png>)
+![variance\_comparison\_TRAINING](<./_images/variance_comparison_TRAINING.png>)
 
 Understanding these results are explained in more detail in [3 - Output Format](<./3 - Output Format.md>) but for now, the simple rule is more reward is better. 
 

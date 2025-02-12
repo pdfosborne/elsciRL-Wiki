@@ -10,7 +10,7 @@
 
 **Open-source Contributors are essential to the success of elsciRL.**
 
-You can provide improvements to the software, add your own models or applications or even provide knowledge to the WIki.
+You can provide improvements to the software, add your own models or applications or even provide knowledge to the Wiki.
 
 In return you gain experience with open-source software and will be recognized in the community as a notable supporter with a unique Discord role.
 

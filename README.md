@@ -32,8 +32,8 @@ Our novel solution is a patent pending framework that allows end users to give i
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
 ### Features
-1. **Accelerates Research** by seperating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge
-2. **Improve Reproducability** by designing generally applicable alogorithms & applications including configurations to re-create prior experiments
+1. **Accelerates Research** by separating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge
+2. **Improve Reproducability** by designing generally applicable algorithms & applications including configurations to re-create prior experiments
 3. **Extract Domain Expert Knowledge** by using our App Interface to let non-technical users provide instructions
 4. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required testing
 
@@ -118,7 +118,7 @@ You can simply open Obsidian's command pallete (ctrl+p) on any note and run the 
 
 This will produce a folder in the **LatexExports** directory of the vault containing the `.tex` file and the Bibliography for you to copy.
 
-All notes in the **Definitions** directory and all equations in the **Studies** directory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
+All notes in the **Definitions** directory and all equations in the **Studies** distate=None, rectory are designed to be exported directly to LaTeX. This means we cannot use Obsidian's linking but provides a smoother experience for academic publications.
 
 See [Using the Wiki](<./Docs & Wiki Guide.md>) for more information.
 

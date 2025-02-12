@@ -51,7 +51,7 @@ If you want to run the code from your IDE you will first need to select the envi
 
 For example, in VS Studio Code for example this can be done using the command ‘Python: Select Interpreter’ or clicking the current Python environment on the bottom right toolbar.
 
-![VS Code Interpreter 1](<./attachments/VS Code Interpreter 1.png>)
+![VS Code Interpreter 1](<./_images/VS Code Interpreter 1.png>)
 ![VS Code Interpreter 2](<./_images/VS Code Interpreter 2.png>)
 
 You can then open the *main.py* file and run this inside the IDE.
