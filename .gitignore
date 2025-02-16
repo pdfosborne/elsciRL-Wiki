@@ -19,6 +19,7 @@ LatexExports/*
 .obsidian-git/appearance.json
 .obsidian-git/icons/*
 
+.obsidian/core-plugins.json
 .obsidian-git/core-plugins.json
 
 .obsidian-git/plugins/obsidian-git
