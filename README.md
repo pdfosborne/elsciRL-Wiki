@@ -92,19 +92,19 @@ The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed
 
 If you wish to download the documentation for personal use:
 
-8. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
-9. Unzip the Vault to a local directory (e.g. inside Documents)
-10. [Download Obsidian.md](https://obsidian.md/download)
-11. Open the Obsidian software
-12. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
+1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+2. Unzip the Vault to a local directory (e.g. inside Documents)
+3. [Download Obsidian.md](https://obsidian.md/download)
+4. Open the Obsidian software
+5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
 See [New Contributors Guide](https://elsci.org/Become+a+Contributor) for more information on contributing to the open-source development of this project.
 
 ### Obsidian Configuration
 
 By default, not all formatting will work without the correct plugins but they can be setup by:
-13. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
-14. Lastly, restart obsidian
+1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
+2. Lastly, restart obsidian
 
 We also use a set of custom css snippets that you can enable in settings > appearance > CSS snippets at the bottom.
 
