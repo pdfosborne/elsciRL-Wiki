@@ -40,7 +40,7 @@ If there are no issues, the training procedure should start with results saved i
 
 ![Running an Experiment](<./_images/Running an Experiment.png>)
 
-**TODO: UPDATE VIDEO TO MATCH GUIDE**
+- [ ] TODO: UPDATE VIDEO TO MATCH GUIDE (➕ 2025-03-24)
 
 ![test\_image](<./_images/test_image.gif>)
 

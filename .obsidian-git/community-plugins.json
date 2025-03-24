@@ -18,5 +18,7 @@
   "copilot",
   "latex-exporter",
   "vault-size-history",
-  "recent-notes"
+  "recent-notes",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
