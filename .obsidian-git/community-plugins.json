@@ -19,5 +19,7 @@
   "vault-size-history",
   "recent-notes",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "rollover-weekly-todo",
+  "periodic-notes"
 ]
