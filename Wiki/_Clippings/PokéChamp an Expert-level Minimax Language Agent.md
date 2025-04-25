@@ -3,9 +3,18 @@ cite: "pokechamp2025"
 title: "PokéChamp: an Expert-level Minimax Language Agent"
 url: "https://arxiv.org/abs/2503.04094"
 authors:
+<<<<<<< HEAD
   - "Karten, Seth"
   - "Nguyen, Andy Luu"
   - "Jin, Chi"
+=======
+  - "Karten"
+  - "Seth"
+  - "Nguyen"
+  - "Andy Luu"
+  - "Jin"
+  - "Chi"
+>>>>>>> origin/main
 publisher: "arXiv"
 site: "arxiv"
 published: 06/03/2025

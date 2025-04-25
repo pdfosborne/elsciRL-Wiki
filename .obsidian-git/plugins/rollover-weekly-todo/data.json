@@ -1,0 +1,7 @@
+{
+  "templateHeading": "### Weekly Activities",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": true,
+  "rolloverOnFileCreate": true
+}
