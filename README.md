@@ -92,19 +92,19 @@ The elsciRL Wiki is written using [Obsidian.md](https://obsidian.md/) and backed
 
 If you wish to download the documentation for personal use:
 
-8. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
-9. Unzip the Vault to a local directory (e.g. inside Documents)
-10. [Download Obsidian.md](https://obsidian.md/download)
-11. Open the Obsidian software
-12. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
+1. Download the [elsciRL-Wiki](https://github.com/pdfosborne/elsciRL-Wiki/tree/main) (click the *Code* button > *Download ZIP*)
+2. Unzip the Vault to a local directory (e.g. inside Documents)
+3. [Download Obsidian.md](https://obsidian.md/download)
+4. Open the Obsidian software
+5. Select the *Open folder as Vault* option and then the *elsciRL-Wiki* folder 
 
 See [New Contributors Guide](https://elsci.org/Become+a+Contributor) for more information on contributing to the open-source development of this project.
 
 ### Obsidian Configuration
 
 By default, not all formatting will work without the correct plugins but they can be setup by:
-13. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
-14. Lastly, restart obsidian
+1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
+2. Lastly, restart obsidian
 
 We also use a set of custom css snippets that you can enable in settings > appearance > CSS snippets at the bottom.
 
@@ -127,12 +127,14 @@ See [Using the Wiki](<./Docs & Wiki Guide.md>) for more information.
 Please use the following to cite this work
 
 ```bibtex
+@phdthesis{Osborne2024,
   title        = {Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language},  
   author       = {Philip Osborne},  
   year         = 2024,  
   month        = {August},  
   address      = {Manchester, UK},  
   note         = {Available at \url{https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu}},  
-  school       = {Department of Computer Science},  
+  school       = {The University of Manchester},  
   type         = {PhD thesis}
+}
 ```

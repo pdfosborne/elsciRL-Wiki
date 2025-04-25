@@ -39,7 +39,7 @@ In this same Frozen Lake example, we have another environment setup for an 8x8 g
 
 Then this new adapter must be included as an input option in the experiment before it will be usable in the configuration.
 
-TODO - SHOW IMAGE OF ADAPTERS DICT FOR INPUT
+- [ ] TODO: SHOW IMAGE OF ADAPTERS DICT FOR INPUT (➕ 2025-03-24 )
 
 We can then call the *Default_8x8* adapter and run the experiment again. Without any other changes it performs just as bad as it did on the 4x4 grid which is not surprising with so few episodes.
 

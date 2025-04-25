@@ -1,11 +1,12 @@
 ### Dr. Philip Osborne, Founder
 
-<a href="https://elsci.orghttps://github.com/pdfosborne"><img src="https://avatars.githubusercontent.com/u/20770556?v=4" align="left" height="75" width="75" ></a>
+<a href="https://elsci.orghttps://github.com/pdfosborne"><img src="https://avatars.githubusercontent.com/u/20770556?v=4" align="left" height="100" width="100" ></a>
 
 
 ── **GitHub:** [pdfosborne](https://github.com/pdfosborne) 
 ── **Medium:** [@PhilipOsborne](https://medium.com/@PhilipOsborne) 
 ── **X/Twitter:** [@DataOsborne](https://x.com/DataOsborne)
+── **Bluesky:** [@philiposborne](https://bsky.app/profile/philiposborne.bsky.social)
 
 
 Guest lecturer at The University of Manchester and The University of Oxford. Winner of two monetary awards from Google ([via Kaggle](https://www.kaggle.com/osbornep)). Winner of the University of Manchester Business School's Commercialisation & Innovation Award. Industry experience as a Data Analyst for Aon Hewitt and Punter Southall and private tutor for over 7 years.

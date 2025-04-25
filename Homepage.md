@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="font-size:100%">
-	<p><i>A Patent Pending Framework that enables Non-technical Experts to give Language Instructions to AI Agents</i></p>	
+	<p><i>A New Framework that enables Non-technical Experts to give Language Instructions to AI Agents</i></p>	
 </div>
 
 <div class="card-grid" align = "center"> 
@@ -76,7 +76,7 @@
 
 **elsciRL (pronounced L-SEE)** offers a general purpose Python library for accelerating the development of language based Reinforcement Learning (RL) solutions.
 
-Our novel solution is a patent pending framework that allows end users to give instructions to Reinforcement Learning agents without direct supervision. In other words, prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached). 
+Our novel solution is a framework that allows end users to give instructions to Reinforcement Learning agents without direct supervision. In other words, prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached). 
 
 This has also been known as *AI agents* but we notably do not require the problem to already contain language.
 
