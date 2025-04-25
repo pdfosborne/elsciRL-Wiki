@@ -1,12 +1,13 @@
 {
+  "includes": {},
   "globalQuery": "",
-  "globalFilter": "TODO",
+  "globalFilter": "#task",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": true,
   "setDoneDate": true,
   "setCancelledDate": true,
-  "autoSuggestInEditor": true,
+  "autoSuggestInEditor": false,
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 20,
   "provideAccessKeys": true,
@@ -14,6 +15,7 @@
   "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,
+  "removeScheduledDateOnRecurrence": false,
   "statusSettings": {
     "coreStatuses": [
       {

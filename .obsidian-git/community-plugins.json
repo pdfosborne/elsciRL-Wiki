@@ -3,6 +3,7 @@
   "obsidian-gist",
   "link-favicon",
   "obsidian-pandoc",
+  "obsidian-git",
   "homepage",
   "theme-picker",
   "show-diff",
@@ -18,8 +19,5 @@
   "latex-exporter",
   "vault-size-history",
   "recent-notes",
-  "obsidian-tasks-plugin",
-  "templater-obsidian",
-  "rollover-weekly-todo",
-  "periodic-notes"
+  "obsidian-tasks-plugin"
 ]
