@@ -4,7 +4,7 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "readableLineLength": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "newLinkFormat": "absolute",
@@ -17,5 +17,8 @@
     "downscalePercent": 100
   },
   "vimMode": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showIndentGuide": true,
+  "foldIndent": false,
+  "foldHeading": true
 }

@@ -19,5 +19,6 @@
   "latex-exporter",
   "vault-size-history",
   "recent-notes",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
