@@ -1,6 +1,4 @@
 [
-  "notion-like-tables",
-  "obsidian-gist",
   "link-favicon",
   "obsidian-pandoc",
   "obsidian-git",
@@ -14,11 +12,13 @@
   "git-url",
   "better-markdown-links",
   "new-tab-default-page",
-  "dataview",
   "copilot",
   "latex-exporter",
   "vault-size-history",
   "recent-notes",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "quick-peek-sidebar",
+  "zen-space",
+  "new-tab-plus"
 ]
