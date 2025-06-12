@@ -47,7 +47,7 @@ This means we cannot use Obsidian's linking but provides a smoother experience f
 
 Specifically, *references* are given in their export format with links to relevant pages in the footnote.
 
-#### Exporting Notes from Studies
+#### Exporting Notes from Studies to LaTeX
 
 Embedded notes that use `![[Other note]]` will embed the content into the main note without creating a LaTeX environment, even if this embed wikilink specifies a header. As always in this plugin, embeds are recursive; it is fine to have many layers deep of embeds.
 

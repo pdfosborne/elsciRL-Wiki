@@ -1,5 +1,5 @@
 # elsciRL-Wiki
-## Language Guidance for Reinforcement Learning
+## A Framework for LLMs to Learn from Interaction Problems with Rewards
 
 <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_cropped.png" align="left" height="250" width="250" ></a>
 
@@ -27,9 +27,11 @@ Visit our <a href="https://elsci.org">website</a> to get started, explore our <a
 
 **elsciRL (pronounced L-SEE)** offers a general purpose Python library for accelerating the development of language based Reinforcement Learning (RL) solutions.
 
-Our novel solution is a patent pending framework that allows end users to give instructions to Reinforcement Learning agents without direct supervision. In other words, prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached). 
+Our novel solution is a framework that uses a combination of Language Adapters and Self-completing Instruction Following (a.k.a. LASIF).
 
-This has also been known as *AI agents* but we notably do not require the problem to already contain language.
+This approach allows end users to give instructions to Reinforcement Learning agents without direct supervision where prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached).
+
+This work fits within the scope of AI agents but we notably do not require the problem to already contain language which is normally required for applying LLMs.
 
 ### Features
 1. **Accelerates Research** by separating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge

@@ -34,6 +34,7 @@
     "last_contact": "date",
     "date": "date",
     "time": "datetime",
-    "Week": "number"
+    "Week": "number",
+    "created": "date"
   }
 }

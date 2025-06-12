@@ -1,4 +1,5 @@
-# Definition
+# Reinforcement Learning Basics
+## Definition
 
 A **policy** decides the agent's actions in any given state, denoted as $\pi(s)$.
 

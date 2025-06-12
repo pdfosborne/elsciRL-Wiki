@@ -1,14 +1,27 @@
 ---
-cite: feng2024NaturalLanguageReinforcement 
+cite: feng2024NaturalLanguageReinforcement
 title: Natural Language Reinforcement Learning
-year: 2024
-tags: [RL, Artificial Intelligence, Computation and Language, Language, Machine Learning]
-authors: Xidong Feng, Ziyu Wan, Mengyue Yang, Ziyan Wang, Girish A. Koushik, Yali Du, Ying Wen, Jun Wang
-citations: 2 citations (Semantic Scholar/arXiv) [2025-02-07]
-publisher: ArXiv
 url: http://arxiv.org/abs/2402.07157
-DOI: arXiv:2402.07157
+year: 2024
+authors: Xidong Feng, Ziyu Wan, Mengyue Yang, Ziyan Wang, Girish A. Koushik, Yali Du, Ying Wen, Jun Wang
+publisher: ArXiv
+site: arxiv
+published: 2024-02-14
+created: 2024-06-20
+tags:
+  - RL
+  - Artificial
+  - Intelligence
+  - Computation
+  - and
+  - Language
+  - Language
+  - Machine
+  - Learning
 type: preprint
+BibTeX (AI Generated): "@misc{nlrl,      title={Natural Language Reinforcement Learning},      author={Xidong Feng and Ziyu Wan and Haotian Fu and Bo Liu and Mengyue Yang and Girish A. Koushik and Zhiyuan Hu and Ying Wen and Jun Wang},      year={2024},      eprint={2411.14251},      archivePrefix={arXiv},      primaryClass={cs.LG},      url={https://arxiv.org/abs/2411.14251},}"
+citations: 2 citations (Semantic Scholar/arXiv) [2025-02-07]
+DOI: arXiv:2402.07157
 ---
 
 # Natural Language Reinforcement Learning

@@ -1,4 +1,5 @@
-# Definition
+# POMDP
+## Definition
 
 In problems such as Text Games, the environment states are never directly observed but rather textual feedback is provided after entering a command. As specified by \cite{Cote:2018}, a Text Game is a discrete-time Partially Observed Markov Decision Process (POMDP) defined by $< S, A, T, \Omega, O, R, \gamma >$ where we now have the addition of the set of observations ($\Omega$) and a set of conditional observed probabilities $O$. Specifically, the function $O$ selects from the environment state the information to be shown to the agent given the command entered to produce each observation $o_t \in \Omega$. 
 
