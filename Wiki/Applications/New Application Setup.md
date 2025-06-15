@@ -32,7 +32,7 @@ Each application is defined by a unique engine that generates the data. Variatio
 Define the MDP data engine with the following functions.
 
 ```python
-Class Engine:
+class Engine:
   def __init__(self, local_setup_info:dict):
     # Store optional setup info
     # Initialize ledger of required & optional data
@@ -82,13 +82,20 @@ Environment configurations can be varied and saved as separate inputs to change 
 
 ```json
 // agent config (agent_config.json)
-name = "Gym-FrozenLake"
-problem_type = "Gymnasium-ToyText"
-experience_sample_batch_ratio = 0
-number_training_episodes = 1000
-number_training_repeats = 20
-agent_select = ["Qlearntab"]
-agent_parameters = {
+"name": "env_name"
+"problem_type" = "category"
+"experience_sample_batch_ratio": 0
+
+"number_training_episodes": 1000
+"number_training_repeats":  20
+"number_training_seeds": 1
+
+"test_agent_type":"all",
+"number_test_episodes": 100,
+"number_test_repeats": 5,
+
+"agent_select": ["Qlearntab"]
+"agent_parameters" = {
     "Qlearntab": {
         "alpha": 0.1,
         "gamma": 0.9,
@@ -100,49 +107,15 @@ agent_parameters = {
 
 ```json
 // environment config (env_config.json)
-environment_size = "4x4"
-adapter_select = ["default", "language"]
-action_limit = 100
-reward_signal = [1, 0, -0.05]
-sub_goal = "None"
+"environment_size": "4x4"
+"adapter_select": ["default", "language"]
+"action_limit": 100
+"reward_signal": [1, 0, -0.05]
+"sub_goal": "None"
 ```
 ### Adapters
-Adapters unify problems into a standard form so any agent in the elsciRL library can be used.
 
-In short, it transforms the state to a new form, optionally adding more context and then outputting a tensor.
-- *inputs*: state, legal moves, action history for episode
-- *outputs*: tensor for the encoded form of the adapted state
-
-
-```python
-# numeric adapter (numeric.py)
-class DefaultAdapter(setup_info):
-  def __init__():
-    # Determine discrete environment size: e.g. "4x4" => 16 positions
-    # Initialize a StateEncoder for these positions
-    # Optionally define an observation space (e.g., Discrete) needed for Gym agents
-
-  def adapter(state, legal_moves=[], episode_action_history=[], encode=True, indexed=False):
-    # If encode=True, convert the numeric state to a tensor (StateEncoder)
-    # If indexed=True, map states to integer IDs
-
-	return tensor(state_encoded)
-```
-
-```python
-# language adapter (language.py)
-class LanguageAdapter(setup_info):
-  def __init__():
-    # Build obs_mapping dictionary describing each state as text
-    # Initialize LanguageEncoder
-
-  def adapter(state, legal_moves=[], episode_action_history=[], encode=True, indexed=False):
-    # Convert numeric state ID to a text description (obs_mapping)
-    # Optionally encode the text into a tensor (LanguageEncoder)
-    # Optionally map each unique description to an indexed ID
-
-	return tensor(state_encoded)
-```
+![[Wiki/Applications/Adapters#Adapters|Adapters]]
 
 ## Analysis Scripts
 
