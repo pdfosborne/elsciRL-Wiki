@@ -31,7 +31,8 @@ pip install -e .
 ```
 
 
-![DemoExperiment_UsageExample](<../_Modules/DemoExperiment#Usage Example>)
+![DemoExperiment_UsageExample](<../_Modules/DemoExperiment.md#Usage Example>)
+
 
 ## Notes
 - You will need to have Python installed, ideally alongside Anaconda for defining the environment.

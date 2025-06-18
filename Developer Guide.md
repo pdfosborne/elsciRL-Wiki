@@ -55,15 +55,14 @@ test = Demo()
 test.run()
 ```
 
-This will run a tabular Q learning agent on your selected problem and save results to:
+This will complete a training and testing phase for a small set of example problems using a tabular Q-learning agent.
+
+Once complete, files will be saved in a timestamped directory for each problem that was run.
+
 
 > '*CURRENT_DIRECTORY*/elsciRL-EXAMPLE-output/...'
 
 A help function is included in demo: *test.help()*
-
-This will complete a training and testing phase for a small set of example problems using a tabular Q-learning agent.
-
-Once complete, files will be saved in a timestamped directory for each problem that was run.
 
 #### Combined analysis output
 
@@ -75,7 +74,6 @@ You can run an example visual analysis that elsciRL provides by simply calling t
 exp.evaluate()
 ```
 
-
 This will return a combined analysis for both training and testing of all problems the were run. 
 
 ![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/_images/variance_comparison_TRAINING.png>)
@@ -83,33 +81,6 @@ This will return a combined analysis for both training and testing of all proble
 Understanding these results are explained in more detail in [3 - Output Format](<./Documentation/I - Introduction/3 - Output Format.md>) but for now, the simple rule is more reward is better. 
 
 This is highlighted best in the graphs on the left side where reward is shown on the y-axis. In other words, the red line for the Default adaptor on the Sailing problem returns the highest reward in training these parameters.
-
-#### Running the examples as a complete script
-
-If you wish to test this demo out further, you can create a simple Python script file to run more results. An example of this could look like the following:
-
-```python
-from elsciRL import DemoExperiment
-
-exp = DemoExperiment()
-
-exp.config(
-	num_train_episodes=10000, num_train_repeats=25,
-	num_test_episodes=250, number_test_repeats=10,
-	Qlearntab_params={
-		'alpha':0.05, 'gamma':0.95, 'epsilon':0.4, 'epsilon_step':0.01
-	}
-)
-
-exp.run()
-exp.evaluate()
-```
-
-This can be saved (e.g. as *elsciRL_Demo.py*) and ran like any other Python script in your IDE simply using the following in the terminal:
-
-```
-python elsciRL_Demo.py
-```
 
 
 ## Notes
