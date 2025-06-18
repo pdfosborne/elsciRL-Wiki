@@ -76,9 +76,9 @@ exp.evaluate()
 
 This will return a combined analysis for both training and testing of all problems the were run. 
 
-![variance\_comparison\_TRAINING](<./Documentation/I - Introduction/_images/variance_comparison_TRAINING.png>)
+![variance\_comparison\_TRAINING](<./Documentation/_Guide/I - Introduction/_images/variance_comparison_TRAINING.png>)
 
-Understanding these results are explained in more detail in [3 - Output Format](<./Documentation/I - Introduction/3 - Output Format.md>) but for now, the simple rule is more reward is better. 
+Understanding these results are explained in more detail in [3 - Output Format](<./Documentation/_Guide/I - Introduction/3 - Output Format.md>) but for now, the simple rule is more reward is better. 
 
 This is highlighted best in the graphs on the left side where reward is shown on the y-axis. In other words, the red line for the Default adaptor on the Sailing problem returns the highest reward in training these parameters.
 

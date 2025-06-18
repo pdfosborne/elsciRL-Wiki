@@ -49,7 +49,7 @@ By default, not all formatting will work without the correct plugins but they ca
 1. Overriding the configuration folder in *Obsidian>Files and Links settings* to this folder *.obsidian-git* (see image below)
 2. Lastly, restart obsidian
 
-![Obsidian settings](<./Documentation/0 - Prerequisites/_images/Obsidian settings.png>)
+![Obsidian settings](<./Documentation/_Guide/0 - Prerequisites/_images/Obsidian settings.png>)
 
 ## Contributing to the Documentation
 
