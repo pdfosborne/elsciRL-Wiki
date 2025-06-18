@@ -47,73 +47,23 @@ pip install -e .
 
 ### Test using the built-in example experiment
 
-Once the elsciRL package is installed, you can run a quick experiment on a small set of pre-configured problems. 
-
-First, we need to import the example experiment from elsciRL:
+You can check the install has worked by running a quick CLI demo from a selection of applications:
 
 ```python
-from elsciRL import DemoExperiment
+from elsciRL import Demo
+test = Demo()
+test.run()
 ```
 
-This imports the DemoExperiment module but it is not initialised yet, to do this we simply need to call it and we also assign it a name:
+This will run a tabular Q learning agent on your selected problem and save results to:
 
-```python 
-exp = DemoExperiment()
-```
+> '*CURRENT_DIRECTORY*/elsciRL-EXAMPLE-output/...'
 
-Now we can simply use its function to run the pre-set examples:
-
-```python 
-exp.run()
-```
+A help function is included in demo: *test.help()*
 
 This will complete a training and testing phase for a small set of example problems using a tabular Q-learning agent.
 
 Once complete, files will be saved in a timestamped directory for each problem that was run.
-
-![demo\_gif](<./Documentation/I - Introduction/_images/elsciRL_demo_short.gif>)
-
-#### Custom parameters: User Input
-
-The *DemoExperiment* module includes two methods for providing your own parameters.
-
-First, you can call the input function that allows you to select which problems you would like to test and provide the number of training episodes. This can be done as follows:
-
-```python
-exp.input()
-```
-
-#### Custom parameters: Manually Defined
-
-Alternatively, you can manually specify more parameters and even hyper-parameters for the tabular Q-learning agent with the following function call:
-
-```python
-exp.config(
-	num_train_episodes=1000, num_train_repeats=5,
-	num_test_episodes=10, number_test_repeats=5,
-	Qlearntab_params={
-		'alpha':0.1, 'gamma':0.95, 'epsilon':0.2, 'epsilon_step':0.01
-	}
-)
-```
-
-For example, the following would set the number of training episodes and only run the sailing example:
-
-```python
-exp.config(num_train_episodes=25000)
-```
-
-*Note - you will need to run all changes in a single call of this function. You can reset to default parameters by simply using: 
-
-```python
-exp.config()
-```
-
-Once an updated set of parameters are defined by either method, you can simply re-call the run function and use this to specify which problems you want to try:
-
-```python 
-exp.run('sailing')
-```
 
 #### Combined analysis output
 

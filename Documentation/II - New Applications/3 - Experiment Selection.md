@@ -23,7 +23,7 @@ For now, we will remove the neural agent as a choice in the config. To do this, 
 
 ![Configuration Options](<./_images/Configuration Options.png>)
 
-The following is a Git difference view where the deletion of ‘Neural_Q’ and the second ‘Default’ adapter selection are shown with the new files on the right.
+The following is a Git difference view where the deletion of ‘DQN’ and the second ‘Default’ adapter selection are shown with the new files on the right.
 
 ![Configuration Removing Neural Agent](<./attachments/Configuration Removing Neural Agent.png>)
 
