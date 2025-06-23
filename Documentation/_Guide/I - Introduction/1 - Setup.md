@@ -31,9 +31,7 @@ cd elsciRL
 pip install -e .
 ```
 
-
-![DemoExperiment\_UsageExample](<../../Examples/DemoExperiment.md#Usage Example>)
-
+![[Documentation/Examples/DemoExperiment#Usage Example|DemoExperiment]]
 
 ## Notes
 - You will need to have Python installed, ideally alongside Anaconda for defining the environment.

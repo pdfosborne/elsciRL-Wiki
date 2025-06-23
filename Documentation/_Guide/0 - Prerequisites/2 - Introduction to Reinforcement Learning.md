@@ -1,5 +1,3 @@
-<!-- filepath: /home/philip/Documents/elsciRL-Wiki/Documentation/_Guide/0 - Prerequisites/2 - Introduction to Reinforcement Learning.md -->
-
 # Introduction to Reinforcement Learning
 
 Reinforcement Learning (RL) is a branch of machine learning where an agent learns to make decisions by interacting with an environment. The agent's goal is to maximize cumulative reward over time by choosing actions that lead to desirable outcomes.

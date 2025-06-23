@@ -1,7 +1,9 @@
-# DemoExperiment.py Summary
+# DemoExperiment
+
+## Source
 
 ```python
-from .examples.DemoExperiment import DemoExperiment as Demo
+from elsciRL.examples.DemoExperiment import DemoExperiment as Demo
 ```
 
 This file provides a demonstration script for running reinforcement learning (RL) experiments using the `elsciRL` framework. The main class, `DemoExperiment`, guides users through configuring, running, and evaluating RL experiments on selected problems from the elsciRL application suite.
