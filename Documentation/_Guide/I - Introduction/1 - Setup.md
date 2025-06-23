@@ -32,7 +32,7 @@ pip install -e .
 ```
 
 ![[Documentation/Examples/DemoExperiment#Usage Example|DemoExperiment]]
-*GitHub Link:* [DemoExperiment](<../../Examples/DemoExperiment.md>)
+*Source page:* [DemoExperiment](<../../Examples/DemoExperiment.md>)
 
 ## Notes
 - You will need to have Python installed, ideally alongside Anaconda for defining the environment.
