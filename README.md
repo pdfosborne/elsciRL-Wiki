@@ -110,7 +110,7 @@ By default, not all formatting will work without the correct plugins but they ca
 
 We also use a set of custom css snippets that you can enable in settings > appearance > CSS snippets at the bottom.
 
-![osbsidian\_settings](https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/0%20-%20Prerequisites/_images/Obsidian%20settings.png)
+![obsidian\_settings](https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Documentation/_Guide/0%20-%20Prerequisites/_images/Obsidian%20settings.png)
 
 ## LaTeX Export
 
