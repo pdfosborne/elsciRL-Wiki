@@ -1,11 +1,11 @@
 
 
 <div align="center" style="font-size:200%">
-	<p><b>Enhance LLMs with<br> Interaction Problems</b></p>	
+	<p><b>Improve Reinforcement Learning with Language</b></p>	
 </div>
 
 <div align="center" style="font-size:100%">
-	<p><i>A Framework for LLMs to learn from Reinforcement Learning Problems with Rewards</i></p>	
+	<p><i>Open-source Python library for LLMs to learn from interaction problems with rewards</i></p>	
 </div>
 
 <div class="card-grid" align = "center"> 

@@ -1,5 +1,5 @@
 # elsciRL-Wiki
-## A Framework for LLMs to Learn from Interaction Problems with Rewards
+## Open-source Python library for LLMs to learn from interaction problems with rewards
 
 <a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_julylogo_textfull_outline_v2.png" align="left" height="300" width="300" ></a>
 
@@ -31,13 +31,14 @@ Our novel solution is a framework that uses a combination of Language Adapters a
 
 This approach allows end users to give instructions to Reinforcement Learning agents without direct supervision where prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached).
 
-This work fits within the scope of AI agents but we notably do not require the problem to already contain language which is normally required for applying LLMs.
+This work fits within the scope of AI agents but we notably do not require the Reinforcement Learning problem to already contain language which is normally required for applying LLMs. This is achieved through the use of adapters that offer a simplified method for getting started with specifying language for any problem.
 
 ### Features
-1. **Accelerates Research** by separating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge
-2. **Improve Reproducability** by designing generally applicable algorithms & applications including configurations to re-create prior experiments
-3. **Extract Domain Expert Knowledge** by using our App Interface to let non-technical users provide instructions
-4. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required testing
+1. **Graphical User Interface (GUI)** to apply cutting edge methods with ease.
+2. **Accelerates Research** by separating Reinforcement Learning development into distinct components and providing an [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge.
+3. **Improve Reproducability** by designing generally applicable algorithms & applications including configurations to re-create prior experiments that can be imported into GUI.
+4. **Extract Domain Expert Knowledge** by using our GUI to let non-technical users provide instructions.
+5. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required to achieve good performance.
 
 <div width="75%" align="center">
 	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />

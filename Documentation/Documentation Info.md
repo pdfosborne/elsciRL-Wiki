@@ -1,4 +1,3 @@
-<!-- filepath: /home/philip/Documents/elsciRL-Wiki/Documentation/Readme.md -->
 # elsciRL Core Documentation
 
 Documentation for the core Python library that can be found at: https://github.com/pdfosborne/elsciRL
