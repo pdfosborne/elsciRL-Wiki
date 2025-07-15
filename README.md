@@ -1,7 +1,7 @@
 # elsciRL-Wiki
 ## A Framework for LLMs to Learn from Interaction Problems with Rewards
 
-<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_julylogo_textfull_outline.png" align="left" height="250" width="250" ></a>
+<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_julylogo_textfull_outline_v2.png" align="left" height="250" width="250" ></a>
 
 <div align="center">
 
