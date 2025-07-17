@@ -1,11 +1,11 @@
 
 
 <div align="center" style="font-size:200%">
-	<p><b>Improve Reinforcement Learning with Language</b></p>	
+	<p><b>Improve Any Reinforcement Learning Application with Language</b></p>	
 </div>
 
 <div align="center" style="font-size:100%">
-	<p><i>Open-source Python library for LLMs to learn from interaction problems with rewards</i></p>	
+	<p><i>Open-source Python library for Integrating Language Solutions & LLMs into any Reinforcement Learning Application</i></p>	
 </div>
 
 <div class="card-grid" align = "center"> 
@@ -17,35 +17,42 @@
 	</div>
 </div>
 
-
-
 <div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL-key-benefits-alt3-transparent-pop.gif?raw=true" />
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_GUI_GIF_2.gif?raw=true" />
+</div>
+
+<div align="left" style="font-size:100%">
+	<p><b>Announcements</b></p>	
+</div>
+
+<div align="left" style="font-size:75%">
+	<p>[14/07/2025] <b>New publication</b> <a href="https://arxiv.org/abs/2507.08705"><i>elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings</i></a></p>	
 </div>
 
 
+---
 
-----
+<div align="center" style="font-size:150%">
+	<p><b>Features</b></p>	
+</div>
+
+1. **Enhance any Reinforcement Learning application with language.** 
+2. Our **Graphical User Interface (GUI)** makes it easy to apply the latest algorithms.
+3. **Develop new applications faster** with fewer problem specific requirements.
+4. **Accelerate your research** with our [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge.
+5. **Share your work with ease** using our *reproducibility features* such as configuration exporting.
+6. **Collect user input data with ease** by using our GUI to let non-technical users provide instructions that guide the agent.
+
+<div align="center">
+	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
+</div>
+
+---
 
 <div align="center" style="font-size:150%">
 	<p><b>Getting Started</b></p>	
 </div>
 
-<div align="center" style="font-size:100%">
-	<p><i>See the Framework in Action</i></p>	
-</div>
-
-<div align="center">
-	<a href="https://osbornep.pythonanywhere.com/" class="button-63">Try the Online Demo</a>
-	<p></p>
-	<iframe width="400" height="300"  
-		src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
-	</iframe>
-</div>
-
-<div align="center" style="font-size:100%">
-	<p><i>Learn how to apply the Python Library</i></p>	
-</div>
 <div class="card-grid" align = "center">  
 	<div class="price" >
 		  <p><a target="_self" href="https://elsci.org/App+Interface+Guide" class="button-63">First Time Setup</a></p>
@@ -55,9 +62,18 @@
 	</div>
 </div>
 
+<div align="center" style="font-size:100%">
+	<p><i>See more of the interface in action</i></p>	
+</div>
+
+<div align="center">
+	<iframe width="400" height="300"  
+		src="https://www.youtube.com/embed/JbPtl7Sk49Y">  
+	</iframe>
+</div>
 
 <div align="center" style="font-size:100%">
-	<p><i>Accelarate your Research with our Open-Source Wiki</i></p>	
+	<p><i>Accelarate your research with our open-source Wiki</i></p>	
 </div>
 
 <div align="center">
@@ -67,63 +83,23 @@
 ----
 
 <div align="center" style="font-size:150%">
-	<p><b>Why use elsciRL</b></p>	
+	<p><b>What is elsciRL?</b></p>	
 </div>
+
+**elsciRL (pronounced L-SEE)** offers a general purpose Python library for accelerating the development of language based Reinforcement Learning (RL) approaches.
+
+Our novel solution is a two-phased approach:
+1. Adapters transforms the RL application with language
+2. An unsupervised instruction following approach which allows a user input to guide the agent beyond the default reward signal
+
+
+These combine to define our **Explicit Language for Self-Completing Instruction** methodology, i.e. **elsci**. Our solution reduces the setup requirements and costs when introducing language to new applications that typically required significant amounts of human labelled data.
+
+The framework was formally defined in [my doctoral thesis](https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu) and has since been summarised in our [systems demonstration paper](https://arxiv.org/abs/2507.08705).
 
 <div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
+	<img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_LLM_Overview-v2.png" />
 </div>
-
-**elsciRL (pronounced L-SEE)** offers a general purpose Python library for accelerating the development of language based Reinforcement Learning (RL) solutions.
-
-Our novel solution is a framework that uses a combination of Language Adapters and Self-completing Instruction Following (a.k.a. LASIF).
-
-This approach allows end users to give instructions to Reinforcement Learning agents without direct supervision where prior methods required any objectives to be hard coded as rules or shown by demonstration (e.g. if key in inventory then objective reached).
-
-This work fits within the scope of *AI agents* but we notably do not require the problem to already contain language which is normally required for applying LLMs.
-
-<div align="center" style="font-size:125%">
-	<p><b>Features</b></p>	
-</div>
-
-<div class="card-grid-3" align = "center">  
-	<div class="card" align = "center">
-	  <div class="card-details" align = "center" >
-	    <p class="text-title">Accelerates Research</p>
-	    <a href="https://elsci.org/Docs+&+Wiki+Guide"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_reader.png" align="left" height="125" width="125" ></a>
-	  </div>
-	  <a href="https://elsci.org/Docs+&+Wiki+Guide"><button class="card-button">Wiki  & Docs</button></a>
-	</div>
-	<div class="card" align = "center">
-	  <div class="card-details" align = "center">
-	    <p class="text-title">Improves Reproducibility</p>
-	    <a href="https://elsci.org/Publications/README"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_researcher.png" align="left" height="125" width="125" ></a>
-	  </div>
-	  <a href="https://elsci.org/Publications/README"><button class="card-button">Benchmarking</button></a>
-	</div>
-</div>
-
-<p></p>
-
-<div class="card-grid-3" align = "center">  
-	  
-	<div class="card" align = "center">
-	  <div class="card-details" align = "center">
-	    <p class="text-title">User Input Interface</p>
-	    <a href="https://elsci.org/App+Interface+Guide"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_doctor.png" align="left" height="125" width="125" ></a>
-	  </div>
-	  <a href="https://elsci.org/App+Interface+Guide"><button class="card-button">App Interface</button></a>
-	</div>
-	<div class="card" align = "center">
-	  <div class="card-details" align = "center">
-	    <p class="text-title">Enhances New Applications</p>
-	    <a href="https://elsci.org/Applications/Applications+Overview"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_logo_owl_techy.png" align="left" height="125" width="125" ></a>
-	  </div>
-	  <a href="https://elsci.org/Applications/Applications+Overview"><button class="card-button">Applications</button></a>
-	</div>
-</div>
-
-
 
 ----
 
