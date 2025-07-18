@@ -26,6 +26,7 @@
 </div>
 
 <div align="left" style="font-size:75%">
+	<p>[18/07/2025] <b>elsciRL Update 0.3.6</b> <i>LLM methods now available and re-usability improvements to the interface.</i></p>	
 	<p>[14/07/2025] <b>New publication</b> <a href="https://arxiv.org/abs/2507.08705"><i>elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings</i></a></p>	
 </div>
 
