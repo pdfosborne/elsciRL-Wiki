@@ -41,7 +41,7 @@ This work fits within the scope of AI agents but we notably do not require the R
 5. **Enchance New Applications** by making it easier to setup new problems and reduce the amount of data required to achieve good performance.
 
 <div width="75%" align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
+	<img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_comparison_flow.png" />
 </div>
 
 ## How to Use the Wiki

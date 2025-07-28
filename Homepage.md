@@ -18,16 +18,21 @@
 </div>
 
 <div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/elsciRL_GUI_GIF_2.gif?raw=true" />
+
+<a href="https://www.youtube.com/watch?v=JbPtl7Sk49Y">![GUI_Preview_GIF](https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_GUI_GIF_2.gif)</a>
+
+
 </div>
+
+
 
 <div align="left" style="font-size:100%">
 	<p><b>Announcements</b></p>	
 </div>
 
 <div align="left" style="font-size:75%">
-	<p>[18/07/2025] <b>elsciRL Update 0.3.6</b> <i>LLM methods now available and re-usability improvements to the interface.</i></p>	
-	<p>[14/07/2025] <b>New publication</b> <a href="https://arxiv.org/abs/2507.08705"><i>elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings</i></a></p>	
+	<p>[July 2025] <b>elsciRL Update 0.3.6</b> <i>LLM methods now available and re-usability improvements to the interface.</i></p>	
+	<p>[July 2025] <b>New publication</b> <a href="https://arxiv.org/abs/2507.08705"><i>elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings</i></a></p>	
 </div>
 
 
@@ -42,10 +47,10 @@
 3. **Develop new applications faster** with fewer problem specific requirements.
 4. **Accelerate your research** with our [Open-Source Wiki](https://github.com/pdfosborne/elsciRL-Wiki) and [Discord Server](https://discord.gg/GgaqcrYCxt) to share knowledge.
 5. **Share your work with ease** using our *reproducibility features* such as configuration exporting.
-6. **Collect user input data with ease** by using our GUI to let non-technical users provide instructions that guide the agent.
+6. **Collect human decision making data** by using our GUI to let non-technical users provide instructions that guide the agent.
 
 <div align="center">
-	<img src="https://github.com/pdfosborne/elsciRL-Wiki/blob/main/Resources/images/Agent-Performance-2.gif?raw=true" />
+	<img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_comparison_flow.png" />
 </div>
 
 ---
