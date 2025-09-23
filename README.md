@@ -1,7 +1,8 @@
 # elsciRL-Wiki
 ## Open-source Python library for LLMs to learn from interaction problems with rewards
 
-<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_julylogo_textfull_outline_v3.png" align="left" height="300" width="300" ></a>
+<a href="https://elsci.org"><img src="https://raw.githubusercontent.com/pdfosborne/elsciRL-Wiki/refs/heads/main/Resources/images/elsciRL_julylogo_black_outline.png" align="left" height="200" width="200" ></a>
+
 
 <div align="center">
 
