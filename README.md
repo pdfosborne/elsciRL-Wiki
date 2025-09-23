@@ -131,7 +131,7 @@ See [Using the Wiki](<./Docs & Wiki Guide.md>) for more information.
 Please use the following to cite this work
 
 ```bibtex
-@phdthesis{Osborne2024,
+@phdthesis{OsborneThesis2024,
   title        = {Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language},  
   author       = {Philip Osborne},  
   year         = 2024,  
@@ -140,5 +140,15 @@ Please use the following to cite this work
   note         = {Available at \url{https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu}},  
   school       = {The University of Manchester},  
   type         = {PhD thesis}
+}
+
+@misc{elsciRL2025,
+      title={elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings}, 
+      author={Philip Osborne and Danilo S. Carvalho and André Freitas},
+      year={2025},
+      eprint={2507.08705},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2507.08705}, 
 }
 ```
