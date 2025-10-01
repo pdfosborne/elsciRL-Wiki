@@ -1,9 +1,9 @@
 {
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "livePreview": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": false,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
